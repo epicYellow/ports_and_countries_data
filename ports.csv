@@ -1,0 +1,1635 @@
+name,city,country,coordinates,province,portCode
+Ajman,Ajman,United Arab Emirates,"[55.5136433, 25.4052165]",Ajman,AEAJM
+Abu Dhabi,Abu Dhabi,United Arab Emirates,"[54.37, 24.47]",Abu Z¸aby [Abu Dhabi],AEAUH
+Dubai,Dubai,United Arab Emirates,"[55.27, 25.25]",Dubayy [Dubai],AEDXB
+Al Fujayrah,Al Fujayrah,United Arab Emirates,"[56.33, 25.12]",Al Fujayrah,AEFJR
+Jebel Ali,Jebel Ali,United Arab Emirates,"[55.0272904, 24.9857145]",Dubai,AEJEA
+Jebel Dhanna,Jebel Dhanna,United Arab Emirates,"[52.6126027, 24.1915137]",Abu Dhabi,AEJED
+Khor al Fakkan,Khor al Fakkan,United Arab Emirates,"[56.35, 25.33]",,AEKLF
+Port Rashid,Port Rashid,United Arab Emirates,"[55.2756505, 25.284755]",Dubai,AEPRA
+Umm al Qaiwain,Umm al Qaiwain,United Arab Emirates,"[55.55, 25.57]",Umm Al Quwain,AEQIW
+Ras al Khaimah,Ras al Khaimah,United Arab Emirates,"[55.95, 25.78]",Ras al Khaimah,AERKT
+Ar Ruways,Ar Ruways,United Arab Emirates,"[52.73, 24.12]",Abu Dhabi,AERUW
+Sharjah,Sharjah,United Arab Emirates,"[55.38, 25.35]",Ash Shariqah [Sharjah],AESHJ
+Antigua,Antigua,Antigua and Barbuda,"[-61.8175207, 17.0746557]",,AGANU
+Saint John's,Saint John's,Antigua and Barbuda,"[-61.85, 17.12]",Saint John,AGSJO
+Blowing Point,Blowing Point,Anguilla,"[-63.093518, 18.177343]",,AIBLP
+Road Bay,Road Bay,Anguilla,"[-63.0653265, 18.2207493]",,AIRBY
+Durres,Durrës,Albania,"[19.4616074, 41.3328072]",,ALDRZ
+Bonaire,Bonaire,Netherlands Antilles,"[-68.26238219999999, 12.2018902]",,ANBON
+Curacao,Curacao,Netherlands Antilles,"[-68.8824233, 12.1224221]",Curaçao,ANCUR
+Sint Eustatius (Antilles),Sint Eustatius (Antilles),Netherlands,"[-63.08416659999999, 18.0348259]",Sint Maarten,ANEUX
+Galisby,Galisby,Netherlands Antilles,"[12.1686756, -68.4486145]",,ANGSB
+Philipsburg,Philipsburg,Netherlands Antilles,"[-63.04713709999999, 18.0295839]",Sint Maarten,ANPHI
+St Maarten,St Maarten,Netherlands Antilles,"[-68.81088489999999, 12.2248767]",,ANSXM
+Willemstad,Willemstad,Netherlands Antilles,"[-68.8824233, 12.1224221]",Curaçao,ANWIL
+Cabinda,Cabinda,Angola,"[12.197583, -5.570573899999999]",Cabinda,AOCAB
+Luanda,Luanda,Angola,"[13.2894368, -8.839987599999999]",Luanda,AOLAD
+Lobito,Lobito,Angola,"[13.5610451, -12.3757287]",Benguela,AOLOB
+Namibe,Namibe,Angola,"[12.1575544, -15.1978317]",Namibe,AOMSZ
+Soyo,Soyo,Angola,"[12.3521148, -6.1410265]",Zaire,AOSZA
+Bahia Blanca,Bahía Blanca,Argentina,"[-62.28, -38.72]",Buenos Aires,ARBHI
+Buenos Aires,Buenos Aires,Argentina,"[-58.67, -34.58]",Ciudad Autónoma de Buenos Aires,ARBUE
+Campana,Campana,Argentina,"[-58.95, -34.15]",Buenos Aires,ARCMP
+Corrientes,Corrientes,Argentina,"[-58.8306349, -27.4692131]",Corrientes,ARCNQ
+Comodoro Rivadavia,Comodoro Rivadavia,Argentina,"[-67.4822429, -45.8656149]",Chubut,ARCRD
+Caleta Olivia,Caleta Olivia,Argentina,"[-67.5171533, -46.4425647]",Santa Cruz,ARCVI
+Delta Dock,Delta Dock,Argentina,"[-34.0447572, -59.199761]",Rio Parana,ARDDC
+La Plata,La Plata,Argentina,"[-57.88, -34.85]",Buenos Aires,ARLPG
+Mar del Plata,Mar del Plata,Argentina,"[-57.53, -38.05]",Buenos Aires,ARMDQ
+Necochea,Necochea,Argentina,"[-58.73960879999999, -38.5544968]",Buenos Aires,ARNEC
+Goya,Goya,Argentina,"[-59.2643242, -29.1442242]",Corrientes,AROYA
+Puerto Madryn,Puerto Madryn,Argentina,"[-65.03, -42.75]",Chubut,ARPMY
+Puerto Deseado,Puerto Deseado,Argentina,"[-65.9, -47.75]",Santa Cruz,ARPUD
+Rio Grande,Río Grande,Argentina,"[-67.7, -53.78]",Tierra del Fuego,ARRGA
+Rio Gallegos,Río Gallegos,Argentina,"[-69.22, -51.63]",Santa Cruz,ARRGL
+Rio Cullen,Rio Cullen,Argentina,"[-68.3523021, -52.8955609]",Zaire,ARRIC
+Rosario,Rosario,Argentina,"[-60.65, -32.95]",Santa Fe,ARROS
+San Antonio Este,San Antonio Este,Argentina,"[-64.73, -40.8]",Río Negro,ARSAE
+Santa Fe,Santa Fe,Argentina,"[-60.68, -31.6]",Santa Fe,ARSFN
+San Lorenzo,San Lorenzo,Argentina,"[-60.7238722, -32.8072889]",La Pampa,ARSLO
+San Nicolas de los Arroyos,San Nicolás de los Arroyos,Argentina,"[-60.23, -33.33]",Buenos Aires,ARSNS
+San Pedro,San Pedro,Argentina,"[-59.17, -33.68]",Entre Ríos,ARSPD
+Ushuaia,Ushuaia,Argentina,"[-68.3, -54.8]",Tierra del Fuego,ARUSH
+Zarate,Zárate,Argentina,"[-59.03, -34.1]",Buenos Aires,ARZAE
+Pago Pago,Pago Pago,American Samoa,"[-170.7020359, -14.2756319]",Eastern,ASPPG
+Hainfeld,Hainfeld,Austria,"[15.7733196, 48.0337274]",Niederösterreich,ATLTX
+Abbot Point,Abbot Point,Australia,"[148.0846726, -19.9078861]",Queensland,AUABP
+Adelaide,Adelaide,Australia,"[138.58, -34.92]",South Australia,AUADL
+Ardrossan,Ardrossan,Australia,"[137.9174283, -34.4230702]",South Australia,AUARD
+Bremer Bay,Bremer Bay,Australia,"[119.379376, -34.3926208]",Western Australia,AUBBY
+Bell Bay,Bell Bay,Australia,"[146.8635558, -41.1154147]",Tasmania,AUBEL
+Brisbane,Brisbane,Australia,"[153.02, -27.47]",Queensland,AUBNE
+Booby Island,Booby Island,Australia,"[141.92, -10.6]",Queensland,AUBOO
+Burnie,Burnie,Australia,"[145.9068513, -41.0524649]",Tasmania,AUBWT
+Chittering,Chittering,Australia,"[116.1010108, -31.4700549]",Western Australia,AUCHT
+Cairns,Cairns,Australia,"[145.7708595, -16.9203338]",Queensland,AUCNS
+Devonport,Devonport,Australia,"[146.3609534, -41.1783532]",Tasmania,AUDPO
+Darwin,Darwin,Australia,"[130.83, -12.45]",Northern Territory,AUDRW
+Fremantle,Fremantle,Australia,"[115.7471797, -32.0560399]",Western Australia,AUFRE
+Gladstone,Gladstone,Australia,"[151.2597998, -23.8487083]",Queensland,AUGLT
+Gove,Gove,Australia,"[130.8717878, -12.3780716]",Northern Territory,AUGOV
+Hobart,Hobart,Australia,"[147.3, -42.87]",Tasmania,AUHBA
+Hay Point,Hay Point,Australia,"[149.2921629, -21.3055785]",Queensland,AUHPT
+Launceston,Launceston,Australia,"[147.1124679, -41.4261807]",Tasmania,AULST
+Melbourne,Melbourne,Australia,"[144.97, -37.82]",Victoria,AUMEL
+New Norfolk,New Norfolk,Australia,"[147.0636496, -42.7806827]",Tasmania,AUNLK
+Newcastle,Newcastle,Australia,"[151.7789205, -32.926689]",New South Wales,AUNTL
+Port Adelaide,Port Adelaide,Australia,"[138.5073616, -34.8477448]",South Australia,AUPAE
+Port Hedland,Port Hedland,Australia,"[118.5752577, -20.3116266]",Western Australia,AUPHE
+Port Kembla,Port Kembla,Australia,"[150.900495, -34.4800735]",New South Wales,AUPKL
+Sydney,Sydney,Australia,"[151.2, -33.85]",New South Wales,AUSYD
+Townsville,Townsville,Australia,"[146.8178707, -19.2576268]",Queensland,AUTSV
+Weipa,Weipa,Australia,"[141.8384064, -12.6591475]",Queensland,AUWEI
+Aruba,Aruba,Aruba,"[-69.97, 12.5]",,AWAUA
+Oranjestad,Oranjestad,Aruba,"[-70.0086306, 12.5092044]",,AWORJ
+Baku,Baku,Azerbaijan,"[49.8670924, 40.40926169999999]",,AZBAK
+Bridgetown,Bridgetown,Barbados,"[-59.59880889999999, 13.1132219]",Saint Michael,BBBGI
+Chittagong,Chittagong,Bangladesh,"[91.8123324, 22.3475365]",Chittagong Division,BDCGP
+Chalna,Chalna,Bangladesh,"[89.5139693, 22.6036965]",Khulna Division,BDCHL
+Dhaka,Dhaka,Bangladesh,"[90.4125181, 23.810332]",Dhaka Division,BDDAC
+Mongla,Mongla,Bangladesh,"[89.6016171, 22.4942196]",Khulna Division,BDMGL
+Antwerpen,Antwerpen,Belgium,"[4.42, 51.22]",Antwerpen,BEANR
+Bossuit,Bossuit,Belgium,"[3.4072881, 50.7481174]",West-Vlaanderen,BEBSU
+Doel,Doel,Belgium,"[4.264974899999999, 51.31059759999999]",Oost-Vlaanderen,BEDEL
+Gent (Ghent),Gent (Ghent),Belgium,"[3.72, 51.05]",Oost-Vlaanderen,BEGNE
+Oostende (Ostend),Oostende (Ostend),Belgium,"[2.92, 51.2]",West-Vlaanderen,BEOST
+Zeebrugge,Zeebrugge,Belgium,"[3.2, 51.33]",West-Vlaanderen,BEZEE
+Ouagadougou,Ouagadougou,Burkina Faso,"[-1.5196603, 12.3714277]",Centre,BFOUA
+Burgas,Burgas,Bulgaria,"[27.4626361, 42.50479259999999]",Burgas,BGBOJ
+Varna,Varna,Bulgaria,"[27.9147333, 43.2140504]",Varna,BGVAR
+Al Hidd,Al HIdd,Bahrain,,Bahrain,BHAHD
+Bahrain,Bahrain,Bahrain,"[50.63, 26.27]",Al Muharraq,BHBAH
+Khalifa Bin Salman Port,Khalifa Bin Salman,Bahrain,"[50.62, 26.2]",Al Muharraq,BHKBS
+Manama,Manama,Bahrain,"[50.5860497, 26.2285161]",,BHMAN
+Sitrah,Sitrah,Bahrain,"[50.62, 26.13]",Al Wustá,BHSIT
+Cotonou,Cotonou,Benin,"[2.3912362, 6.3702928]",Littoral,BJCOO
+Hamilton,Hamilton,Bermuda,"[-64.781375, 32.294816]",Hamilton,BMBDA
+Southampton,Southampton,Bermuda,"[-1.4043509, 50.90970040000001]",Zou,BMSOU
+Bandar Seri Begawan,Bandar Seri Begawan,Brunei Darussalam,"[114.93, 4.88]",Brunei-Muara,BNBWN
+Kuala Belait,Kuala Belait,Brunei Darussalam,"[114.2212174, 4.5831986]",Belait,BNKUB
+Muara,Muara,Brunei Darussalam,"[115.0732883, 5.0333206]",Brunei-Muara,BNMUA
+Puerto Busch,Puerto Busch,"Bolivia, Plurinational State of","[-57.96666699999999, -20.033333]",Santa Cruz,BOPBU
+Santa Cruz,Santa Cruz,"Bolivia, Plurinational State of","[-63.18, -17.78]",La Paz,BOSRZ
+Aratu,Aratu,Brazil,"[-38.4560755, -12.7855854]",Bahia,BRARB
+Areia Branca,Areia Branca,Brazil,"[-37.17, -4.98]",Rio Grande do Norte,BRARE
+Belem,Belem,Brazil,"[-48.5, -1.45]",Pará,BRBEL
+Cabedelo,Cabedelo,Brazil,"[-34.8287221, -6.987721499999999]",Paraíba,BRCDO
+Forno,Forno,Brazil,"[-41.8807698, -22.7583647]",Rio de Janeiro,BRFNO
+Fortaleza,Fortaleza,Brazil,"[-38.5266704, -3.7318616]",Ceará,BRFOR
+Imbituba,Imbituba,Brazil,"[-48.6691286, -28.227627]",Santa Catarina,BRIBB
+Itaguai,Itaguaí,Brazil,"[-43.77, -22.87]",Rio de Janeiro,BRIGI
+Itapoa,Itapoá,Brazil,"[-48.6, -26.12]",Santa Catarina,BRIOA
+Ilheus,Ilheus,Brazil,"[-39.0463797, -14.7935051]",Bahia,BRIOS
+Itabirito,Itabirito,Brazil,"[-43.8030567, -20.2530617]",Minas Gerais,BRIRO
+Itajai,Itajai,Brazil,"[-48.6709514, -26.9105964]",Santa Catarina,BRITJ
+Itaqui,Itaqui,Brazil,"[-56.5481122, -29.1294007]",Rio Grande do Sul,BRITQ
+Itapemirim,Itapemirim,Brazil,"[-40.8310577, -21.0100062]",Espírito Santo,BRITZ
+Manaus,Manaus,Brazil,"[-60.0217314, -3.1190275]",Amazonas,BRMAO
+Maceio,Maceió,Brazil,"[-35.72, -9.67]",Alagoas,BRMCZ
+Natal,Natal,Brazil,"[-35.200916, -5.7792569]",Rio Grande do Norte,BRNAT
+Navegantes,Navegantes,Brazil,"[-48.65, -26.9]",Santa Catarina,BRNVT
+Portocel,Portocel,Brazil,"[-40.3088626, -19.1834229]",Espírito Santo,BRPCL
+Pecem,Pecém,Brazil,"[-38.87, -3.52]",Ceará,BRPEC
+Paranagua,Paranaguá,Brazil,"[-48.5, -25.52]",Paraná,BRPNG
+Paranã,Paranã,Brazil,"[-47.8759329, -12.6162809]",Tocantins,BRPNN
+Porto Alegre,Pôrto Alegre,Brazil,"[-51.2176584, -30.0346471]",Rio Grande do Sul,BRPOA
+Recife,Recife,Brazil,"[-34.8828969, -8.0578381]",Pernambuco,BRREC
+Rio Grande,Rio Grande,Brazil,"[-52.1075802, -32.0353776]",Rio Grande do Sul,BRRIG
+Rio de Janeiro,Rio de Janeiro,Brazil,"[-43.1728965, -22.9068467]",Rio de Janeiro,BRRIO
+Salto Grande,Salto Grande,Brazil,"[-49.9836057, -22.8898683]",São Paulo,BRSAL
+Sao Francisco do Sul,São Francisco do Sul,Brazil,"[-48.6348454, -26.2584141]",Santa Catarina,BRSFS
+Porto de Itaguai,Porto de Itaguaí,Brazil,"[-43.82, -22.92]",Rio de Janeiro,BRSPB
+Salvador,Salvador,Brazil,"[-38.502304, -12.9730401]",Bahia,BRSSA
+Sao Sebastiao,São Sebastião,Brazil,"[-45.4016534, -23.8063468]",São Paulo,BRSSO
+Santos,Santos,Brazil,"[-46.33, -23.95]",São Paulo,BRSSZ
+Santarem,Santarem,Brazil,"[-54.7009228, -2.4506291]",Pará,BRSTM
+Suape,Suape,Brazil,"[-34.9575528, -8.3536618]",Pernambuco,BRSUA
+Vitoria da Conquista,Vitória da Conquista,Brazil,"[-40.85, -14.85]",Bahia,BRVDC
+Vila do Conde,Vila do Conde,Brazil,"[-34.9, -7.27]",Paraíba,BRVIC
+Vitoria,Vitoria,Brazil,"[-40.2957768, -20.2976178]",Espírito Santo,BRVIX
+Vila do Conde,Vila do Conde,Brazil,"[-48.75, -1.53]",Pará,BRVLC
+"Freeport, Grand Bahama","Freeport, Grand Bahama",Bahamas,"[-78.64554749999999, 26.5416093]",Freeport,BSFPO
+Nassau,Nassau,Bahamas,"[-77.35, 25.08]",New Providence,BSNAS
+Minsk,Minsk,Belarus,"[27.5615244, 53.90453979999999]",,BYMSQ
+Belize City,Belize City,Belize,"[-88.1962133, 17.5045661]",Belize,BZBZE
+Bathurst,Bathurst,Canada,"[-65.6513358, 47.6183507]",New Brunswick,CABAT
+Brockville,Brockville,Canada,"[-75.68428580000001, 44.5895244]",Ontario,CABCK
+Baie d'Urfe,Baie d'Urfé,Canada,"[-73.92, 45.4]",Quebec,CABDU
+Becancour,Bécancour,Canada,"[-72.43, 46.33]",Quebec,CABEC
+Baie-Johan-Beetz,Baie-Johan-Beetz,Canada,"[-62.83, 50.3]",Quebec,CABJO
+Burlington,Burlington,Canada,"[-79.7990319, 43.3255196]",Ontario,CABRL
+Calgary,Calgary,Canada,"[-114.07, 51.03]",Alberta,CACAL
+Corner Brook,Corner Brook,Canada,"[-57.93, 48.95]",Newfoundland and Labrador,CACBK
+Cowichan Bay,Cowichan Bay,Canada,"[-123.6215503, 48.7373094]",British Columbia,CACCB
+Collingwood,Collingwood,Canada,"[-80.2169047, 44.50076869999999]",Ontario,CACOL
+Crofton,Crofton,Canada,"[-123.6457977, 48.86384400000001]",British Columbia,CACRO
+Cornwall,Cornwall,Canada,"[-74.730345, 45.0212762]",Ontario,CACWL
+Dorval,Dorval,Canada,"[-73.75004849999999, 45.4503213]",Quebec,CADOR
+Drummondville,Drummondville,Canada,"[-72.4842824, 45.8802909]",Quebec,CADRU
+Edmonton,Edmonton,Canada,"[-113.4909267, 53.544389]",Alberta,CAEDM
+Halifax,Halifax,Canada,"[-63.5753196, 44.6488625]",Nova Scotia,CAHAL
+Hamilton,Hamilton,Canada,"[-79.8660914, 43.25002080000001]",Ontario,CAHAM
+Harmac,Harmac,Canada,"[-123.85, 49.13]",British Columbia,CAHMC
+Kingsville,Kingsville,Canada,"[-82.7389809, 42.0362841]",Ontario,CAKVL
+Magog,Magog,Canada,"[-72.1479889, 45.2664863]",Quebec,CAMAG
+Moncton,Moncton,Canada,"[-64.7782313, 46.0878165]",New Brunswick,CAMNT
+Montreal,Montreal,Canada,"[-73.567256, 45.5016889]",Quebec,CAMTR
+Niagara Falls,Niagara Falls,Canada,"[-79.0849436, 43.0895577]",Ontario,CANIA
+Nanaimo,Nanaimo,Canada,"[-123.9400647, 49.1658836]",British Columbia,CANNO
+North Bay,North Bay,Canada,"[-79.45, 46.3]",Ontario,CANOR
+New Westminster,New Westminster,Canada,"[-122.910956, 49.2057179]",British Columbia,CANWE
+Oakville,Oakville,Canada,"[-79.6876659, 43.467517]",Ontario,CAOAK
+Odessa,Odessa,Canada,"[-76.71829249999999, 44.2770379]",Ontario,CAODE
+Oshawa,Oshawa,Canada,"[-78.86579119999999, 43.8970929]",Ontario,CAOSH
+Port Credit,Port Credit,Canada,"[-79.585628, 43.5516151]",Ontario,CAPCR
+Port Dover,Port Dover,Canada,"[-80.20327790000002, 42.7865225]",Ontario,CAPDV
+Port Mellon,Port Mellon,Canada,"[-123.4880588, 49.5217479]",British Columbia,CAPML
+Pointe-Claire,Pointe-Claire,Canada,"[-73.73, 45.43]",Quebec,CAPOI
+Prince Rupert,Prince Rupert,Canada,"[-130.3208187, 54.3150367]",British Columbia,CAPRR
+Quebec,Quebec,Canada,"[-71.242796, 46.8032826]",Quebec,CAQUE
+Saskatoon,Saskatoon,Canada,"[-106.6700458, 52.1332144]",Saskatchewan,CASAK
+Saint-Catharines,Saint-Catharines,Canada,"[-79.23, 43.17]",Ontario,CASCA
+Saint-John,Saint-John,Canada,"[-66.07, 45.27]",New Brunswick,CASJB
+Saint-John's,Saint-John's,Canada,"[-52.73, 47.57]",Newfoundland and Labrador,CASJF
+Sarnia,Sarnia,Canada,"[-82.4065901, 42.974536]",Ontario,CASNI
+Sorel,Sorel,Canada,"[-73.112302, 46.042825]",Quebec,CASOR
+Sault-Sainte-Marie,Sault-Sainte-Marie,Canada,"[-84.3460896, 46.52185799999999]",Ontario,CASSM
+Stoney Creek,Stoney Creek,Canada,"[-79.7195586, 43.2272182]",Ontario,CASTC
+Summerside,Summerside,Canada,"[-63.79023309999999, 46.39337769999999]",Prince Edward Island,CASUM
+Texada Island,Texada Island,Canada,"[-124.4121947, 49.6596634]",British Columbia,CATEX
+Thunder Bay,Thunder Bay,Canada,"[-89.2476823, 48.3808951]",Ontario,CATHU
+Toronto,Toronto,Canada,"[-79.3831843, 43.653226]",Ontario,CATOR
+Trois-Rivieres (Three Rivers),Trois-Rivieres (Three Rivers),Canada,"[-72.5475259, 46.35924199999999]",Quebec,CATRR
+Trenton,Trenton,Canada,"[-77.576313, 44.1011263]",Ontario,CATTC
+Vancouver,Vancouver,Canada,"[-123.1207375, 49.2827291]",British Columbia,CAVAN
+Valleyfield,Valleyfield,Canada,"[-74.13, 45.25]",Quebec,CAVLF
+Winona,Winona,Canada,"[-79.6509165, 43.2079596]",Ontario,CAWIN
+Winnipeg,Winnipeg,Canada,"[-97.1374937, 49.8997541]",Manitoba,CAWNP
+Boma,Boma,"Congo, The Democratic Republic of the","[-5.8347218, 13.022875]",,CDBOA
+Matadi,Matadi,"Congo, The Democratic Republic of the","[-5.8237941, 13.4509856]",,CDMAT
+Pointe Noire,Pointe Noire,Congo,"[11.866362, -4.7691623]",Kouilou,CGPNR
+Abidjan,Abidjan,Côte d'Ivoire,"[-4.0082563, 5.3599517]",Lagunes,CIABJ
+San-Pedro,San-Pédro,Côte d'Ivoire,"[-6.62, 4.73]",Bas-Sassandra (Région du),CISPY
+Antofagasta,Antofagasta,Chile,"[-70.38, -23.63]",Antofagasta,CLANF
+Arica,Arica,Chile,"[-70.32, -18.48]",Arica y Parinacota,CLARI
+Bahia San Gregorio,Bahía San Gregorio,Chile,"[-70.13, -52.62]",Magallanes,CLBAG
+Barquito,Barquito,Chile,"[-70.63, -26.35]",Atacama,CLBAR
+San Vicente,San Vicente,Chile,"[-4.397057999999999, 43.3813069]",CAP,CLCAP
+Calbuco,Calbuco,Chile,"[-73.13, -41.75]",Los Lagos,CLCBC
+Caleta Coloso,Caleta Coloso,Chile,"[-70.29371789999999, -18.4350352]",Región de Arica y Parinacota,CLCCL
+Chacabuco,Chacabuco,Chile,"[-72.82, -45.48]",Aysén,CLCHB
+Caldera,Caldera,Chile,"[-70.8, -27.03]",Atacama,CLCLD
+Coronel,Coronel,Chile,"[-73.15, -37.02]",Biobío,CLCNL
+Chanaral,Chañaral,Chile,"[-70.62, -26.35]",Atacama,CLCNR
+Cabo Negro,Cabo Negro,Chile,"[-70.85, -52.97]",Magallanes,CLCNX
+Coquimbo,Coquimbo,Chile,"[-71.33, -29.97]",Coquimbo,CLCQQ
+Corral,Corral,Chile,"[-73.43, -39.87]",Los Lagos,CLCRR
+Dalcahue,Dalcahue,Chile,"[-73.67, -42.38]",Los Lagos,CLDCH
+Guayacan,Guayacán,Chile,"[-71.37, -29.98]",Coquimbo,CLGYC
+Huasco,Huasco,Chile,"[-71.22, -28.45]",Atacama,CLHSO
+Isla de Pascua,Isla de Pascua,Chile,"[-109.42, -27.15]",Valparaíso,CLIPC
+Iquique,Iquique,Chile,"[-70.13, -20.22]",Tarapacá,CLIQQ
+Jureles,Jureles,Chile,"[-36.9721439, -73.2265222]",Coronel Bay,CLJRL
+Los Vilos,Los Vilos,Chile,"[-71.5, -31.9]",Coquimbo,CLLOS
+Lirquen,Lirquén,Chile,"[-72.98, -36.7]",Biobío,CLLQN
+Las Ventanas,Las Ventanas,Chile,"[-71.65, -33.27]",Valparaíso,CLLVS
+Michilla,Michilla,Chile,"[-70.27768979999999, -22.7183138]",Región de Antofagasta,CLMCH
+Mejillones,Mejillones,Chile,"[-70.45, -23.1]",Antofagasta,CLMJS
+Puerto Angamos,Puerto Angamos,Chile,"[-70.45, -23.08]",Antofagasta,CLPAG
+Puerto Chacabuco,Puerto Chacabuco,Chile,"[-72.83, -45.48]",Aysén,CLPCH
+Penco,Penco,Chile,"[-72.98, -36.72]",Biobío,CLPEO
+Punta Chungo,Punta Chungo,Chile,"[-31.885551, -71.5038607]",,CLPGO
+Puerto Montt,Puerto Montt,Chile,"[-72.95, -41.47]",Los Lagos,CLPMC
+Puerto Natales,Puerto Natales,Chile,"[-72.5, -51.72]",Magallanes,CLPNT
+Punta Patache,Punta Patache,Chile,"[-70.22, -20.82]",,CLPPC
+Punta Padrones,Punta Padrones,Chile,"[-27.0522946, -70.841904]",,CLPPD
+Quellon (Puerto Quellon),Quellón (Puerto Quellón),Chile,"[-73.62, -43.1]",Los Lagos,CLPTE
+Patillos,Patillos,Chile,"[-70.18, -20.75]",Tarapacá,CLPTI
+Punta Arenas,Punta Arenas,Chile,"[-70.93, -53.13]",Magallanes,CLPUQ
+Quemchi,Quemchi,Chile,"[-73.48, -42.13]",Los Lagos,CLQMC
+Quintero,Quintero,Chile,"[-71.53, -32.77]",Valparaíso,CLQTV
+San Antonio,San Antonio,Chile,"[-71.6, -33.6]",Valparaíso,CLSAI
+San Vicente,San Vicente,Chile,"[-73.13, -36.7]",Biobío,CLSVE
+Talcahuano,Talcahuano,Chile,"[-73.12, -36.73]",Biobío,CLTAL
+Talcahuano,Talcahuano,Chile,"[-73.1169808, -36.7247834]",Bío Bío Region,CLTHO
+Tome,Tomé,Chile,"[-72.95, -36.6]",Biobío,CLTOM
+Tocopilla,Tocopilla,Chile,"[-70.18, -22.08]",Antofagasta,CLTOQ
+Taltal,Taltal,Chile,"[-70.47, -25.4]",Antofagasta,CLTTC
+Valparaiso,Valparaiso,Chile,"[-71.63, -33.03]",Valparaíso,CLVAP
+Castro,Castro,Chile,"[-73.77, -42.47]",Los Lagos,CLWCA
+Chaiten,Chaitén,Chile,"[-72.7, -42.92]",Los Lagos,CLWCH
+Puerto Aisen,Puerto Aisén,Chile,"[-72.7, -45.38]",Aysén,CLWPA
+Puerto Williams,Puerto Williams,Chile,"[-67.62, -54.92]",Magallanes,CLWPU
+Ancud,Ancud,Chile,"[-73.83, -41.85]",Los Lagos,CLZUD
+Douala,Douala,Cameroon,"[9.7678687, 4.0510564]",Littoral,CMDLA
+Bayuquan,Bayuquan,China,"[122.107814, 40.230636]",Liaoning,CNBAY
+Beihai Fucheng Apt,Beihai Fucheng Apt,China,"[108.327546, 22.815478]",Guangxi,CNBHY
+Beijiao,Beijiao,China,"[119.92, 26.35]",Fujian,CNBJO
+Guangzhou,Guangzhou,China,"[113.264385, 23.12911]",Guangdong,CNCAN
+Changshu,Changshu,China,"[120.752503, 31.653686]",Jiangsu,CNCGU
+Chongqing,Chongqing,China,"[106.551557, 29.56301]",Chongqing,CNCKG
+Chaozhou Port,Chaozhou,China,"[116.63, 23.67]",Guangdong,CNCOZ
+Changsha,Changsha,China,"[112.938814, 28.228209]",Hunan,CNCSX
+Chengdu,Chengdu,China,"[104.066541, 30.572269]",Sichuan,CNCTU
+Chiwan Port,Chiwan,China,"[113.88, 22.48]",Guangdong,CNCWN
+Dagang,Dagang,China,"[120.103473, 33.189192]",Jiangsu,CNDAA
+Dalian,Dalian,China,"[121.614682, 38.91400300000001]",Liaoning,CNDAL
+Da Chan Bay,Da Chan Bay,China,,Shenzhen,CNDCB
+Dongguan Port,Dongguan,China,"[113.751765, 23.020536]",Guangdong,CNDGG
+Dalian,Dalian,China,"[121.614682, 38.91400300000001]",Liaoning,CNDLC
+Doumen Port,Doumen,China,"[113.28, 22.2]",Guangdong,CNDOU
+Fangcheng Port,Fangcheng,China,"[108.35, 21.77]",Guangxi,CNFAN
+Fuyong,Fuyong,China,"[113.78, 22.65]",Guangdong,CNFNG
+Fuzhou,Fuzhou,China,,Fujian,CNFOC
+Foshan,Foshanzhan,China,"[113.1, 23.03]",Guangdong,CNFOS
+Fuqing,Fuqing,China,"[119.383811, 25.720381]",Fujian,CNFUG
+Gongyi,Gongyi,China,"[113.218364, 23.4033077]",Guangdong,CNGGY
+Gongming,Gongming,China,"[113.87, 22.78]",Guangdong,CNGOG
+Gaoming Port,Gaoming,China,"[112.83, 22.88]",Guangdong,CNGOM
+Guigang,Guigang,China,"[109.6, 23.1]",Guangxi,CNGUG
+Haikou,Haikou,China,"[110.198293, 20.044002]",Hainan,CNHAK
+Huadu,Huadu,China,"[113.22, 23.4]",Guangdong,CNHDU
+Hebei,Hebei,China,"[115.27, 39.88]",Hebei,CNHEB
+Hangzhou,Hangzhou,China,"[120.15507, 30.274085]",Zhejiang,CNHGH
+Haimen,Haimen,China,"[121.4530792, 32.1041568]",Zhejiang,CNHME
+Humen Port,Humen,China,"[113.67, 22.83]",Guangdong,CNHMN
+Heshan Port,Heshan,China,"[112.95, 22.77]",Guangdong,CNHSN
+Huangpu Port,Huangpu,China,"[113.459714, 23.106899]",Guangdong,CNHUA
+Huludao Port,Huludao,China,"[120.85, 40.75]",Liaoning,CNHUD
+Huizhou Port,Huizhou,China,"[114.37, 23.08]",Guangdong,CNHUI
+Jingzhou,Jingzhou,China,"[112.18, 30.35]",Hubei,CNJGZ
+Jiangyin Port,Jiangyin,China,"[120.28, 31.9]",Jiangsu,CNJIA
+Jian,Jian,China,"[114.97, 27.12]",Jiangxi,CNJIN
+Jiujiang Port,Jiujiang,China,"[115.97, 29.72]",Jiangxi,CNJIU
+Jiangmen Port,Jiangmen,China,"[113.07, 22.58]",Guangdong,CNJMN
+Jinzhou Port,Jinzhou,China,"[121.15, 41.12]",Liaoning,CNJNZ
+Jiao Xin,Jiao Xin,China,"[113.3136949, 22.7024799]",Guangdong,CNJXN
+Jiuzhou Port,Jiuzhou,China,"[116.122239, 24.288615]",Guangdong,CNJZU
+Nanchang,Nanchang,China,"[115.858198, 28.682892]",Jiangxi,CNKHN
+Kunming,Kunming,China,"[102.832892, 24.880095]",Yunnan,CNKMG
+Kaiping,Kaiping,China,"[118.3, 39.7]",Hebei,CNKPN
+Lanshi Port,Lanshi,China,"[113.981592, 22.9701602]",Guangdong Sheng,CNLAN
+Longhua,Longhua,China,"[114.020921, 22.63964]",Guangdong,CNLGH
+Lianhuashan Port,Lianhuashan,China,"[115.27, 23.02]",Guangdong,CNLIH
+Longkou Port,Longkou,China,"[120.35, 37.65]",Shandong,CNLKU
+Lanshi,Lanshi,China,"[113.6, 26.15]",Hunan,CNLSI
+Lianyungang,Lianyungang,China,"[119.43, 34.72]",Jiangsu,CNLYG
+Liuzhou Port,Liuzhou,China,"[109.4, 23.32]",Guangxi,CNLZH
+Mawei Port,Mawei,China,"[119.45, 25.98]",Fujian,CNMAW
+Maoming,Maoming,China,"[110.925456, 21.662999]",Guangdong,CNMMI
+Mawan Port,Mawan,China,"[113.88, 22.45]",Guangdong,CNMWN
+Mianyang,Mianyang,China,"[104.7, 31.5]",Sichuan,CNMYG
+Nanhai Port,Nanhai,China,"[113.15, 23.02]",Guangdong,CNNAH
+Ningbo,Ningbo,China,"[121.54399, 29.868336]",Zhejiang,CNNBO
+Ningbo,Ningbo,China,"[121.54399, 29.868336]",Zhejiang,CNNGB
+Nangang,Nangang,China,"[113.2004523, 23.0372705]",Guangdong,CNNGG
+Nanjing,Nanjing,China,"[118.796877, 32.060255]",Jiangsu,CNNKG
+Nanning,Nanning,China,"[108.366543, 22.817002]",Guangxi,CNNNG
+Nansha Port,Nansha,China,"[113.58, 22.75]",Guangdong,CNNSA
+Nantong Port,Nantong,China,"[120.85, 32.02]",Jiangsu,CNNTG
+Shiqiao,Shiqiao,China,"[113.37, 22.95]",Guangdong,CNPNY
+Putian,Putian,China,"[119.02, 24.43]",Fujian,CNPUT
+Qianwan,Qianwan,China,"[120.22, 36.05]",Shandong,CNQAW
+Qingdao,Qingdao,China,"[120.382612, 36.067117]",Shandong,CNQIN
+Qingyuan,Qingyuan,China,"[113.056031, 23.681764]",Guangdong,CNQYN
+Quanzhou Port,Quanzhou,China,"[118.6, 24.93]",Fujian,CNQZJ
+Rongqi Port,Rongqi,China,"[113.27, 22.78]",Guangdong,CNROQ
+Rizhao Port,Rizhao,China,"[119.53, 35.38]",Shandong,CNRZH
+Sanbu Port,Sanbu,China,"[112.716189, 22.36821]",Guangdong,CNSBU
+Shuidong Port,Shuidong,China,"[111, 21.52]",Guangdong,CNSDG
+Shanghai,Shanghai,China,"[121.473701, 31.230416]",Shanghai,CNSGH
+Shanghai,Shanghai,China,"[121.473701, 31.230416]",Shanghai,CNSHA
+Shekou Port,Shekou,China,"[113.92, 22.48]",Guangdong,CNSHK
+Qinhuangdao Port,Qinhuangdao,China,"[119.58, 39.92]",Hebei,CNSHP
+Shatian,Shatian,China,"[113.617788, 22.919003]",Guangdong,CNSIN
+Sanshui,Sanshui,China,"[112.87, 23.17]",Guangdong,CNSJQ
+Shenwan,Shenwan,China,"[113.3640848, 22.2815335]",Guangdong,CNSNW
+Sanshan (Nanhai),Sanshan (Nanhai),China,"[113.2413272, 23.0359965]",Guangdong Sheng,CNSSH
+Port of Shantou,Shantou,China,,Guangdong,CNSTG
+Shunde Port,Shunde,China,"[113.25, 22.83]",Guangdong,CNSUD
+Jieyang Chaoshan Apt,Jieyang Chaoshan Apt,China,"[113.266531, 23.132191]",Guangdong,CNSWA
+Shanwei Port,Shanwei,China,"[115.35, 22.78]",Guangdong,CNSWE
+Shenzhen Baoan,Shenzhen Baoan,China,"[113.88402, 22.555259]",Guangdong,CNSZX
+Taicang,Taicang,China,"[121.13055, 31.457735]",Jiangsu,CNTAG
+Qingdao,Qingdao,China,"[120.382612, 36.067117]",Shandong,CNTAO
+Taiping,Taiping,China,"[110.17, 21.03]",Guangdong,CNTAP
+Taicheng (Taishan),Taicheng (Taishan),China,"[112.78, 22.25]",Guangdong,CNTHG
+Tianjin,Tianjin,China,"[117.200983, 39.084158]",Tianjin,CNTSN
+Tianjin New Port,Tianjin New,China,"[117.7, 38.98]",Tianjin,CNTXG
+Taizhou,Taizhou,China,"[119.9, 32.48]",Jiangsu,CNTZO
+Wanzai,Wanzai,China,"[113.52, 22.18]",Guangdong,CNWAZ
+Weihai,Weihai,China,"[122.12, 37.52]",Shandong,CNWEI
+Wuhu Port,Wuhu,China,"[118.37, 31.32]",Anhui,CNWHI
+Wenzhou,Wenzhou,China,"[120.699367, 27.994267]",Zhejiang,CNWNZ
+Wuhan,Wuhan,China,"[114.305393, 30.593099]",Hubei,CNWUH
+Xinfeng,Xinfeng,China,"[114.206867, 24.05976]",Guangdong,CNXAB
+Xiamen,Xiamen,China,"[118.089425, 24.479834]",Fujian,CNXAM
+Xingang,Xingang,China,"[117.6849329, 39.0065118]",Tianjin,CNXGA
+Xingang,Xingang,China,"[117.6849329, 39.0065118]",Tianjin,CNXGG
+Xiaolan,Xiaolan,China,"[113.2514, 22.671394]",Guangdong,CNXIL
+Xinhui Port,Xinhui,China,"[113.02, 22.53]",Guangdong,CNXIN
+Xintang Port,Xintang,China,"[113.62, 23.12]",Guangdong,CNXIT
+Xiamen,Xiamen,China,"[118.089425, 24.479834]",Fujian,CNXMN
+Yangshan,Yangshan,China,"[121.869339, 29.476705]",Zhejiang,CNYAN
+Yichang,Yichang,China,"[111.28, 30.7]",Hubei,CNYIC
+Yingkou Port,Yingkou,China,"[122.22, 40.65]",Liaoning,CNYIK
+Yangjiang Port,Yangjiang,China,"[111.97, 21.83]",Guangdong,CNYJI
+Yunfu,Yunfu,China,"[112.044491, 22.915094]",Guangdong,CNYNF
+Yantai,Yantai,China,"[121.447935, 37.463822]",Shandong,CNYNT
+Yangpu Port,Yangpu,China,"[109.2, 19.7]",Hainan,CNYPG
+Beijiao,Beijiao,China,"[113.207187, 22.928305]",Guangdong,CNYQS
+Yantai,Yantai,China,"[121.447935, 37.463822]",Shandong,CNYTG
+Yantian Port,Yantian,China,"[119.87, 26.85]",Guangdong,CNYTN
+Yangzhou Port,Yangzhou,China,"[119.43, 32.38]",Jiangsu,CNYZH
+Zhapu (Zhejiang),Zhapu (Zhejiang),China,"[121.095594, 30.603546]",Zhejiang,CNZAP
+Zhanjiang Potou Apt,Zhanjiang Potou Apt,China,"[113.266531, 23.132191]",Guangdong,CNZHA
+Zhenjiang Port,Zhenjiang,China,"[119.45, 32.18]",Jiangsu,CNZHE
+Zhangjiagang,Zhangjiagang,China,"[120.53, 31.87]",Jiangsu,CNZJG
+Zhoushan Port,Zhoushan,China,"[122.207216, 29.98529499999999]",Zhejiang,CNZOS
+Zhaoqing Port,Zhaoqing,China,"[112.45, 23.05]",Guangdong,CNZQG
+Zhongshan Port,Zhongshan,China,"[113.37, 22.52]",Guangdong,CNZSN
+Zhuhai Port,Zhuhai,China,"[113.57, 22.28]",Guangdong,CNZUH
+Barranquilla,Barranquilla,Colombia,"[-74.80698129999999, 11.0041072]",Atlantico,COBAQ
+Buenaventura,Buenaventura,Colombia,"[-77.01972119999999, 3.8830471]",Valle del Cauca,COBUN
+Cartagena,Cartagena,Colombia,"[-75.4794257, 10.3910485]",Bolívar,COCTG
+Puerto Bolivar,Puerto Bolívar,Colombia,"[-74.73, 10.68]",La Guajira,COPBO
+Santa Marta,Santa Marta,Colombia,"[-74.2110227, 11.2403547]",Magdalena,COSMR
+Tumaco,Tumaco,Colombia,"[-78.802094, 1.80009]",Narino,COTCO
+Caldera,Caldera,Costa Rica,"[-84.72, 9.95]",Puntarenas,CRCAL
+Golfito,Golfito,Costa Rica,"[-83.15, 8.65]",Puntarenas,CRGLF
+Puerto Limon,Puerto Limón,Costa Rica,"[-83.03, 10]",Limón,CRLIO
+Moin,Moín,Costa Rica,"[-83.08, 10]",Limón,CRMOB
+Puntarenas,Puntarenas,Costa Rica,"[-84.83, 9.97]",Puntarenas,CRPAS
+Puerto Caldera,Puerto Caldera,Costa Rica,"[-84.0869419, 9.9328525]",San Jose,CRPCA
+San Jose,San José,Costa Rica,"[-84.08, 9.93]",San José,CRSJO
+La Habana,La Habana,Cuba,"[-82.35, 23.12]",Ciudad de La Habana,CUHAV
+Mariel,Mariel,Cuba,"[-82.75, 23]",Artemisa Province,CUMAR
+Matanzas,Matanzas,Cuba,"[-81.3399414, 22.5767123]",Matanzas,CUQMA
+Santiago de Cuba,Santiago de Cuba,Cuba,"[-75.8301537, 20.01693]",Santiago de Cuba,CUSCU
+Mindelo,Mindelo,Cape Verde,"[-25, 16.88]",São Vicente,CVMIN
+Palmeira,Palmeira,Cape Verde,"[-22.9788596, 16.7582698]",Sal,CVPAL
+Praia,Praia,Cape Verde,"[-23.5133267, 14.93305]",Praia,CVRAI
+Limassol,Limassol,Cyprus,"[33.05, 34.68]",Lemesos,CYLMS
+Nicosia,Nicosia,Cyprus,"[33.37, 35.17]",Lefkosia,CYNIC
+Paphos,Paphos,Cyprus,"[32.42, 34.77]",Pafos,CYPFO
+Bahlingen,Bahlingen,Germany,"[7.742533799999999, 48.1214009]",Baden-Württemberg,DEBEZ
+Bingen am Rhein,Bingen am Rhein,Germany,"[7.88, 49.97]",Rheinland-Pfalz,DEBIN
+Brake,Brake,Germany,"[8.48, 53.33]",Niedersachsen,DEBKE
+Bad Oeynhausen,Bad Oeynhausen,Germany,"[8.8009706, 52.2084623]",Nordrhein-Westfalen,DEBOY
+Bramel,Bramel,Germany,"[8.7, 53.55]",Niedersachsen,DEBRA
+Brunsbuttel,Brunsbüttel,Germany,"[9.1338853, 53.8988902]",Schleswig-Holstein,DEBRB
+Bremen,Bremen,Germany,"[8.8016937, 53.07929619999999]",Bremen,DEBRE
+Bremerhaven,Bremerhaven,Germany,"[8.5809424, 53.5395845]",Bremen,DEBRV
+Burgstaaken/Fehmarn,Burgstaaken/Fehmarn,Germany,"[11.1925499, 54.4191983]",Schleswig-Holstein,DEBSK
+Koln,Köln,Germany,"[6.93, 50.95]",Nordrhein-Westfalen,DECGN
+Cuxhaven,Cuxhaven,Germany,"[8.7, 53.88]",Niedersachsen,DECUX
+Dusseldorf,Düsseldorf,Germany,"[6.78, 51.23]",Nordrhein-Westfalen,DEDUS
+Elsfleth,Elsfleth,Germany,"[8.47, 53.23]",Niedersachsen,DEELS
+Emden,Emden,Germany,"[7.22, 53.37]",Niedersachsen,DEEME
+Flensburg,Flensburg,Germany,"[9.4469964, 54.7937431]",Schleswig-Holstein,DEFLF
+Hamburg,Hamburg,Germany,"[9.9936818, 53.5510846]",Hamburg,DEHAM
+Harburg,Harburg,Germany,"[9.9834184, 53.4607785]",Hamburg,DEHBU
+Hamm,Hamm,Germany,"[7.8, 51.68]",Nordrhein-Westfalen,DEHMM
+Kiel,Kiel,Germany,"[10.13, 54.33]",Schleswig-Holstein,DEKEL
+Kriegenbrunn,Kriegenbrunn,Germany,"[10.9556919, 49.5563955]",Bayern,DEKGU
+Kochendorf,Kochendorf,Germany,"[9.211614899999999, 49.2178183]",Baden-Württemberg,DEKHO
+Lubeck,Lübeck,Germany,"[10.6865593, 53.8654673]",Schleswig-Holstein,DELBC
+Leer,Leer,Germany,"[7.4679018, 53.235657]",Niedersachsen,DELEE
+Mannheim,Mannheim,Germany,"[8.45, 49.48]",Baden-Württemberg,DEMHG
+Nordenham,Nordenham,Germany,"[8.48, 53.5]",Niedersachsen,DENHA
+Nordstrand,Nordstrand,Germany,"[8.9246523, 54.5108878]",Schleswig-Holstein,DENOR
+Pfronten,Pfronten,Germany,"[10.5264351, 47.5766418]",Bayern,DEPFR
+Rostock,Rostock,Germany,"[12.13, 54.08]",Mecklenburg-Vorpommern,DERSK
+Wedel,Wedel,Germany,"[9.7137465, 53.58238129999999]",Schleswig-Holstein,DEWED
+Worms,Worms,Germany,"[8.3507182, 49.6341372]",Rheinland-Pfalz,DEWOR
+Wilhelmshaven,Wilhelmshaven,Germany,"[8.13, 53.52]",Niedersachsen,DEWVN
+Djibouti,Djibouti,Djibouti,"[43.1456475, 11.5720765]",Djibouti,DJJIB
+Djibouti,Djibouti,Djibouti,"[43.1456475, 11.5720765]",Djibouti,DJPOD
+Aalborg,Aalborg,Denmark,"[9.921747, 57.0488195]",North Denmark Region,DKAAL
+Aarhus,Aarhus,Denmark,"[10.22, 56.15]",Midtjylland,DKAAR
+Assens,Assens,Denmark,"[9.9008188, 55.2702263]",Region Syddanmark,DKASN
+Kobenhavn,København,Denmark,"[12.58, 55.67]",Hovedstaden,DKCPH
+Esbjerg,Esbjerg,Denmark,"[8.459405, 55.476466]",Region Syddanmark,DKEBJ
+Fredericia,Fredericia,Denmark,"[9.749516999999999, 55.5689298]",Region Syddanmark,DKFRC
+Hirtshals,Hirtshals,Denmark,"[9.9668379, 57.58695299999999]",North Denmark Region,DKHIR
+Helsingor,Helsingør,Denmark,"[12.592127, 56.030787]",Capital Region of Denmark,DKHLS
+Holstebro,Holstebro,Denmark,"[8.621727, 56.36153400000001]",Central Denmark Region,DKHSB
+Kalundborg,Kalundborg,Denmark,"[11.089188, 55.686429]",Region Zealand,DKKAL
+Kerteminde,Kerteminde,Denmark,"[10.654979, 55.455882]",Region Syddanmark,DKKTD
+Nyborg,Nyborg,Denmark,"[10.799561, 55.324169]",Region Syddanmark,DKNBG
+Odense,Odense,Denmark,"[10.40237, 55.40375599999999]",Region Syddanmark,DKODE
+Rungsted,Rungsted,Denmark,"[12.52, 55.88]",Hovedstaden,DKRUG
+Skagen,Skagen,Denmark,"[10.579186, 57.725004]",North Denmark Region,DKSKA
+Svendborg,Svendborg,Denmark,"[10.607282, 55.067434]",Region Syddanmark,DKSVE
+Roseau,Roseau,Dominica,"[-61.37935539999999, 15.3091676]",Saint George Parish,DMRSU
+Caucedo,Caucedo,Dominican Republic,"[-69.63, 18.42]",Distrito Nacional (Santo Domingo),DOCAU
+Rio Haina,Rio Haina,Dominican Republic,"[-70.07310749999999, 18.5132686]",Santo Domingo,DOHAI
+Manzanillo,Manzanillo,Dominican Republic,"[-71.75, 19.7]",Monte Cristi,DOMAN
+Puerto Plata,Puerto Plata,Dominican Republic,"[-70.6871091, 19.7807686]",Puerto Plata,DOPOP
+Santo Domingo,Santo Domingo,Dominican Republic,"[-69.9, 18.47]",Distrito Nacional (Santo Domingo),DOSDQ
+San Pedro de Macoris,San Pedro de Macorís,Dominican Republic,"[-69.3, 18.45]",San Pedro de Macoris,DOSPM
+Annaba (ex Bone),Annaba (ex Bone),Algeria,"[36.9178674, 7.6740654]",,DZAAE
+Alger (Algiers),Alger (Algiers),Algeria,"[3.05, 36.75]",Alger,DZALG
+Bejaia (ex Bougie),Bejaia (ex Bougie),Algeria,"[5.056733299999999, 36.7508896]",Béjaïa,DZBJA
+Ghardaia,Ghardaïa,Algeria,"[3.67, 32.48]",Ghardaïa Province,DZGHA
+Mostaganem,Mostaganem,Algeria,"[0.1401381, 36.01312350000001]",Mostaganem,DZMOS
+Oran,Oran,Algeria,"[-0.6337376, 35.6976541]",Oran,DZORN
+Skikda (ex Philippeville),Skikda (ex Philippeville),Algeria,"[6.910181, 36.87152]",,DZSKI
+Bahia de Caraquez,Bahía de Caráquez,Ecuador,"[-80.5, -0.55]",Manabí,ECBHA
+Chanduy,Chanduy,Ecuador,"[-80.67, -2.42]",Guayas,ECCHA
+Esmeraldas,Esmeraldas,Ecuador,"[-79.7, 0.98]",Esmeraldas,ECESM
+Guayaquil,Guayaquil,Ecuador,"[-79.9, -2.17]",Guayas,ECGYE
+La Libertad,La Libertad,Ecuador,"[-80.9, -2.23]",Guayas,ECLLD
+Manta,Manta,Ecuador,"[-80.73, -0.95]",Manabí,ECMEC
+Monteverde,Monteverde,Ecuador,"[-80.72, -2.03]",Santa Elena,ECMTV
+Puerto Bolivar,Puerto Bolívar,Ecuador,"[-79.98, -3.27]",El Oro,ECPBO
+Haldi,Haldi,Estonia,"[22.4658999, 58.8093999]",Hiiumaa,EEHLD
+Muuga,Muuga,Estonia,"[24.97, 59.5]",Harjumaa,EEMUG
+Tallinn,Tallinn,Estonia,"[24.73, 59.43]",Harjumaa,EETLL
+Ain Sukhna,Ain Sukhna,Egypt,"[32.3300171, 29.6325617]",Suez Governorate,EGAIS
+El Iskandariya (Alexandria),El Iskandariya (Alexandria),Egypt,"[30.0625938, 31.3091118]",Alexandria Governorate,EGALY
+Dumyat (Damietta),Dumyat (Damietta),Egypt,"[31.82, 31.42]",Damietta Governorate,EGDAM
+El Dekheila,El Dekheila,Egypt,"[30.7716308, 30.7051537]",El Beheira Governorate,EGEDK
+Port Said,Port Said,Egypt,"[32.3018661, 31.2652893]",Port Said Governorate,EGPSD
+Sokhna Port,Sokhna,Egypt,"[32.35, 29.65]",,EGSOK
+As Suways (Suez),As Suways (Suez),Egypt,"[32.52, 29.97]",As Suways,EGSUZ
+Assab,Assab,Eritrea,"[42.73, 13]",Debubawi K’eyyih Bahri,ERASA
+Massawa (Mitsiwa),Massawa (Mitsiwa),Eritrea,"[39.45, 15.6]",Semienawi K’eyyih Bahri,ERMSW
+Lanzarote,Lanzarote,Spain,"[-13.53, 28.97]",Las Palmas,ESACE
+Malaga,Málaga,Spain,"[-4.42, 36.72]",Andalusia,ESAGP
+Alicante,Alicante,Spain,"[-0.4906855, 38.3459963]",Valencian Community,ESALC
+Algeciras,Algeciras,Spain,"[-5.456233, 36.1407591]",Andalusia,ESALG
+Aviles,Aviles,Spain,"[-5.9246653, 43.5579523]",Asturias,ESAVS
+Barcelona,Barcelona,Spain,"[2.1734035, 41.3850639]",Catalonia,ESBCN
+Bilbao,Bilbao,Spain,"[-2.97, 43.25]",Biskaia,ESBIO
+Bermeo,Bermeo,Spain,"[-2.72, 43.43]",Biskaia,ESBRM
+Cadiz,Cadiz,Spain,"[-6.2885962, 36.5270612]",Andalusia,ESCAD
+Cartagena,Cartagena,Spain,"[-0.9965839, 37.6256827]",Región de Murcia,ESCAR
+Castellon de la Plana,Castellón de la Plana,Spain,"[-0.03, 39.98]",Valencia / València,ESCAS
+Ceuta,Ceuta,Spain,"[-5.3213455, 35.8893874]",Ceuta,ESCEU
+Cebolla,Cebolla,Spain,,Semienawi K’eyyĭḥ Baḥri,ESEBO
+Ferez,Ferez,Spain,"[-2, 38.35]",Albacete,ESFER
+Puerto del Rosario-Fuerteventura,Puerto del Rosario-Fuerteventura,Spain,"[-13.8628367, 28.500821]",Canarias,ESFUE
+Gijon,Gijón,Spain,"[-5.67, 43.53]",Asturias,ESGIJ
+Huelva,Huelva,Spain,"[-6.9447224, 37.261421]",Andalucía,ESHUV
+Ibiza,Ibiza,Spain,"[1.43, 38.9]",Balears [Baleares],ESIBZ
+La Coruna (A Coruna),La Coruña (A Coruña),Spain,"[-8.38, 43.37]",A Coruña [La Coruña],ESLCG
+Almeria,Almería,Spain,"[-2.45, 36.83]",Almería,ESLEI
+Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,Spain,"[-15.42, 28.1]",Las Palmas,ESLPA
+Madrid,Madrid,Spain,"[-3.7037902, 40.4167754]",Community of Madrid,ESMAD
+"Mahon, Menorca","Mahón, Menorca",Spain,"[4.25, 39.88]",Balears [Baleares],ESMAH
+Melilla,Melilla,Spain,"[-2.88, 35.32]",Melilla,ESMLN
+Motril,Motril,Spain,"[-3.5180363, 36.7489747]",Andalucía,ESMOT
+"Marin, Pontevedra","Marin, Pontevedra",Spain,"[-8.7020824, 42.3914848]",Galicia,ESMPG
+Palamos,Palamós,Spain,"[3.13, 41.85]",Catalunya,ESPAL
+Pasajes,Pasajes,Spain,"[-1.9301396, 43.32547030000001]",Euskadi,ESPAS
+Palma de Mallorca,Palma de Mallorca,Spain,"[2.63, 39.57]",Balearic Islands,ESPMI
+Santa Cruz de Tenerife,Santa Cruz de Tenerife,Spain,"[-16.2518467, 28.4636296]",Canarias,ESSCT
+Santander,Santander,Spain,"[-3.8099803, 43.46230569999999]",Cantabria,ESSDR
+Santurce,Santurce,Spain,"[-3.03, 43.33]",Biskaia,ESSNR
+Santa Cruz de La Palma,Santa Cruz de La Palma,Spain,"[-17.77, 28.68]",Las Palmas,ESSPC
+Sevilla,Sevilla,Spain,"[-5.9844589, 37.3890924]",Andalusia,ESSVQ
+Tarragona,Tarragona,Spain,"[1.2444909, 41.1188827]",Catalonia,ESTAR
+Tabuenca,Tabuenca,Spain,"[-1.5432601, 41.6949364]",Zaragoza,ESTBZ
+Tenerife,Tenerife,Spain,"[-16.57, 28.32]",Las Palmas,ESTCI
+Tortosa,Tortosa,Spain,"[0.5214423, 40.8125777]",Catalonia,ESTOT
+Vigo,Vigo,Spain,"[-8.7207268, 42.24059889999999]",Galicia,ESVGO
+Valencia,Valencia,Spain,"[-0.3762881, 39.4699075]",Valencian Community,ESVLC
+Zaragoza,Zaragoza,Spain,"[-0.8890853, 41.6488226]",Aragon,ESZAZ
+Helsingfors (Helsinki),Helsingfors (Helsinki),Finland,"[24.9410248, 60.17332440000001]",Uusimaa,FIHEL
+Hango (Hanko),Hangö (Hanko),Finland,"[22.9658562, 59.8283461]",Uusimaa,FIHKO
+Fredrikshamn (Hamina),Fredrikshamn (Hamina),Finland,"[27.2, 60.57]",Kymenlaakso,FIHMN
+Kemi/Tornea (Kemi/Tornio),Kemi/Torneå (Kemi/Tornio),Finland,"[24.57, 65.73]",Lappi,FIKEM
+Karleby (Kokkola),Karleby (Kokkola),Finland,"[23.12, 63.83]",Keski-Pohjanmaa,FIKOK
+Kotka,Kotka,Finland,"[26.92, 60.47]",Kymenlaakso,FIKTK
+Mantyluoto,Mantyluoto,Finland,"[21.4822772, 61.59187739999999]",,FIMTL
+Oulu,Oulu,Finland,"[25.4714526, 65.0126148]",Northern Ostrobothnia,FIOLU
+Oulu (Uleaborg),Oulu (Uleåborg),Finland,"[25.47, 65.02]",Pohjois-Pohjanmaa,FIOUL
+Bjorneborg (Pori),Björneborg (Pori),Finland,"[21.8, 61.48]",Satakunta,FIPOR
+Rauma (Raumo),Rauma (Raumo),Finland,"[21.5, 61.13]",Satakunta,FIRAU
+Abo (Turku),Åbo (Turku),Finland,"[22.28, 60.45]",Varsinais-Suomi,FITKU
+Tornea (Tornio),Torneå (Tornio),Finland,"[24.18, 65.85]",Lappi,FITOR
+Lautoka,Lautoka,Fiji,"[177.45, -17.62]",Western Division,FJLTK
+Suva,Suva,Fiji,"[178.4500789, -18.1248086]",Central Division,FJSUV
+Port Stanley,Port Stanley,Falkland Islands (Malvinas),"[-57.85166269999999, -51.6977129]",East Falkland,FKPSY
+Pohnpei (ex Ponape),Pohnpei (ex Ponape),"Micronesia, Federated States of","[158.2623822, 6.8541254]",Pohnpei,FMPNI
+Thorshavn,Thorshavn,Faroe Islands,"[-6.77, 62.02]",,FOTHO
+Bassens,Bassens,France,"[-0.516238, 44.899835]",Gironde,FRBAS
+Bayonne,Bayonne,France,"[-1.474841, 43.492949]",Pyrénées-Atlantiques,FRBAY
+Brest,Brest,France,"[-4.48, 48.4]",Finistère,FRBES
+Bordeaux,Bordeaux,France,"[-0.57918, 44.837789]",Gironde,FRBOD
+Boulogne-sur-Mer,Boulogne-sur-Mer,France,"[1.62, 50.72]",Pas-de-Calais,FRBOL
+Calais,Calais,France,"[1.858686, 50.95129000000001]",Pas-de-Calais,FRCQF
+Dunkerque,Dunkerque,France,"[2.3767763, 51.0343684]",Nord,FRDKK
+Dieppe,Dieppe,France,"[1.077483, 49.922992]",Seine-Maritime,FRDPE
+Fos-sur-Mer,Fos-sur-Mer,France,"[4.93, 43.43]",Bouches-du-Rhône,FRFOS
+Chitry,Chitry,France,"[3.702397, 47.762686]",Yonne,FRHGT
+Honfleur,Honfleur,France,"[5.1307681, 46.2475706]",Ain,FRHON
+Javrezac,Javrezac,France,"[5.1307681, 46.2475706]",Ain,FRJAV
+La Ciotat,La Ciotat,France,"[5.605155, 43.17365299999999]",Bouches-du-Rhône,FRLCT
+Le Havre,Le Havre,France,"[0.107929, 49.49437]",Seine-Maritime,FRLEH
+La Planche,La Planche,France,"[-1.43, 47]",Loire-Atlantique,FRLPC
+La Pallice,La Pallice,France,"[-1.205105, 46.1625749]",Charente-Maritime,FRLPE
+La Rochelle,La Rochelle,France,"[-1.151139, 46.160329]",Charente-Maritime,FRLRH
+Lorient,Lorient,France,"[-3.3702449, 47.7482524]",Morbihan,FRLRT
+Le Treport,Le Tréport,France,"[1.382472, 50.05916999999999]",Seine-Maritime,FRLTR
+Le Verdon-sur-Mer,Le Verdon-sur-Mer,France,"[-1.07, 45.55]",Gironde,FRLVE
+Mundolsheim,Mundolsheim,France,"[7.7144412, 48.6434829]",Bas-Rhin,FRMDH
+Marseille,Marseille,France,"[5.4, 43.3]",Bouches-du-Rhône,FRMRS
+Monteton,Monteton,France,"[0.2576879, 44.622205]",Lot-et-Garonne,FRMT7
+Montoir-de-Bretagne,Montoir-de-Bretagne,France,"[-2.15, 47.33]",Loire-Atlantique,FRMTX
+Nantes,Nantes,France,"[-1.553621, 47.218371]",Loire-Atlantique,FRNTE
+La Groise,La Groise,France,"[3.681767, 50.078788]",Nord,FROR6
+Paris,Paris,France,"[2.3522219, 48.856614]",Paris,FRPAR
+Piriac-sur-Mer,Piriac-sur-Mer,France,"[-2.55, 47.38]",Loire-Atlantique,FRPIR
+Port-Vendres,Port-Vendres,France,"[3.12, 42.52]",Pyrénées-Orientales,FRPOV
+Sete,Sète,France,"[3.7008219, 43.4078758]",Hérault,FRSET
+Saint-Nazaire,Saint-Nazaire,France,"[-2.2, 47.28]",Loire-Atlantique,FRSNR
+Toulon,Toulon,France,"[5.928, 43.124228]",Var,FRTLN
+Rouen,Rouen,France,"[1.099971, 49.44323199999999]",Seine-Maritime,FRURO
+Mus,Mus,France,"[5.2418509, 43.951727]",Vaucluse,FRUSJ
+Cap Lopez,Cap Lopez,Gabon,"[8.7811645, -0.7726462]",,GACLZ
+Libreville,Libreville,Gabon,"[9.4672676, 0.4161976]",Estuaire,GALBV
+Owendo,Owendo,Gabon,"[9.483282599999999, 0.3379564]",Estuaire,GAOWE
+Port Gentil,Port Gentil,Gabon,"[8.7591311, -0.7351025999999999]",Ogooue-Maritime,GAPOG
+Aberdeen,Aberdeen,United Kingdom,"[-2.1, 57.13]",Aberdeen City,GBABD
+Avonmouth,Avonmouth,United Kingdom,"[-2.68, 51.5]","Bristol, City of",GBAVO
+Barry Dock,Barry Dock,United Kingdom,"[-3.25, 51.38]","Vale of Glamorgan, The [Bro Morgannwg GB-BMG]",GBBAD
+Broadstairs,Broadstairs,United Kingdom,"[1.42, 51.37]",Kent,GBBDT
+Belfast,Belfast,United Kingdom,"[-5.92, 54.98]",Belfast,GBBEL
+Burnham on Crouch,Burnham on Crouch,United Kingdom,"[0.83, 51.62]",Essex,GBBOC
+Bootle,Bootle,United Kingdom,"[-3.02, 53.47]",Sefton,GBBOE
+Boston,Boston,United Kingdom,"[-0.026577, 52.97893999999999]",Lincolnshire,GBBOS
+Birkenhead,Birkenhead,United Kingdom,"[-3.03, 53.4]",Wirral,GBBRK
+Bristol,Bristol,United Kingdom,"[-2.58791, 51.454513]","Bristol, City of",GBBRS
+Bridlington,Bridlington,United Kingdom,"[-0.2, 54.08]",East Riding of Yorkshire,GBBRT
+Bridgwater,Bridgwater,United Kingdom,"[-3.003632, 51.127889]",Somerset,GBBRW
+Cardiff,Cardiff,United Kingdom,"[-3.2, 51.5]",Cardiff [Caerdydd GB-CRD],GBCDF
+Carrickfergus,Carrickfergus,United Kingdom,"[-5.8101207, 54.7261871]",Carrickfergus,GBCFG
+Charleston,Charleston,United Kingdom,"[-3.0063019, 56.599797]",Angus,GBCHD
+Cairnryan,Cairnryan,United Kingdom,"[-5.02, 54.97]",Dumfries and Galloway,GBCYN
+Dundee,Dundee,United Kingdom,"[-2.97, 56.5]",Dundee City,GBDUN
+Dover,Dover,United Kingdom,"[1.3134027, 51.1278758]",Kent,GBDVR
+Edinburgh,Edinburgh,United Kingdom,"[-3.2, 55.95]","Edinburgh, City of",GBEDI
+Sheildaig,Sheildaig,United Kingdom,,Woleu-Ntem,GBEIL
+Ellesmere Port,Ellesmere,United Kingdom,"[-2.8873982, 53.2068281]",Cheshire West and Chester,GBELL
+Seaton,Seaton,United Kingdom,"[-3.0718734, 50.70531339999999]",Devon,GBEON
+Falmouth,Falmouth,United Kingdom,"[-5.066269999999999, 50.15257099999999]",Cornwall,GBFAL
+Fawley,Fawley,United Kingdom,"[-1.3502269, 50.8268139]",Hampshire,GBFAW
+Fraserburgh,Fraserburgh,United Kingdom,"[-2.02, 57.68]",Aberdeenshire,GBFRB
+Felixstowe,Felixstowe,United Kingdom,"[1.351255, 51.961726]",Suffolk,GBFXT
+Guernsey,Guernsey,United Kingdom,"[-2.58949, 49.4481982]",,GBGCI
+Glasgow,Glasgow,United Kingdom,"[-4.25, 55.83]",Glasgow City,GBGLW
+Goole,Goole,United Kingdom,"[-0.87, 53.72]",East Riding of Yorkshire,GBGOO
+Grangemouth,Grangemouth,United Kingdom,"[-3.72, 56]",Falkirk,GBGRG
+Greenock,Greenock,United Kingdom,"[-4.75, 55.93]",Inverclyde,GBGRK
+Grimsby,Grimsby,United Kingdom,"[-0.5, 53.53]",North East Lincolnshire,GBGSY
+Great Yarmouth,Great Yarmouth,United Kingdom,"[1.728047, 52.598233]",Norfolk,GBGTY
+Gravesend,Gravesend,United Kingdom,"[0.370759, 51.44188399999999]",Kent,GBGVS
+Harwich,Harwich,United Kingdom,"[1.260297, 51.934731]",Essex,GBHRW
+Hull,Hull,United Kingdom,"[-0.32, 53.73]",East Riding of Yorkshire,GBHUL
+Immingham,Immingham,United Kingdom,"[-0.22, 53.6]",North East Lincolnshire,GBIMM
+Inverkeithing,Inverkeithing,United Kingdom,"[-3.398795, 56.030043]",Fife,GBINK
+Inverness,Inverness,United Kingdom,"[-4.224721, 57.477773]",Highland,GBINV
+Ipswich,Ipswich,United Kingdom,"[1.14822, 52.056736]",Suffolk,GBIPS
+Irlam,Irlam,United Kingdom,"[-2.42, 53.43]",Trafford,GBIRL
+King's Lynn,King's Lynn,United Kingdom,"[0.38, 52.75]",Norfolk,GBKLN
+Lancaster,Lancaster,United Kingdom,"[-2.8007399, 54.046575]",Lancashire,GBLAN
+London Gateway Port,London Gateway,United Kingdom,"[0.48, 51.5]",Essex,GBLGP
+Liverpool,Liverpool,United Kingdom,"[-3, 53.42]",Liverpool,GBLIV
+London,London,United Kingdom,"[-0.1277583, 51.5073509]","London, City of",GBLON
+Maldon,Maldon,United Kingdom,"[0.6714479999999999, 51.73180499999999]",Essex,GBMAL
+Macduff,Macduff,United Kingdom,"[-2.48, 57.67]",Aberdeenshire,GBMCD
+Middlesbrough,Middlesbrough,United Kingdom,"[-1.15, 54.57]",Redcar and Cleveland,GBMID
+"Moaness, Hoy","Moaness, Hoy",United Kingdom,"[-3.3108075, 58.9163522]",Orkney Islands,GBMNS
+Montrose,Montrose,United Kingdom,"[-2.45, 56.7]",Angus,GBMON
+Maryport,Maryport,United Kingdom,"[-3.49494, 54.714441]",Cumbria,GBMRY
+Newcastle upon Tyne,Newcastle upon Tyne,United Kingdom,"[-1.6, 54.97]",Newcastle upon Tyne,GBNCL
+Northfleet,Northfleet,United Kingdom,"[0.33694, 51.44107200000001]",Kent,GBNFT
+Newhaven,Newhaven,United Kingdom,"[0.045574, 50.79307000000001]",East Sussex,GBNHV
+Nelson,Nelson,United Kingdom,"[-2.219377, 53.835187]",Lancashire,GBNLN
+Newport,Newport,United Kingdom,"[-3.0305937, 51.581186]",Blaenau Gwent,GBNPT
+Pen-Clawdd,Pen-Clawdd,United Kingdom,,Swansea [Abertawe GB-ATA],GBPDD
+Purfleet,Purfleet,United Kingdom,"[0.2433122, 51.48671059999999]",Essex,GBPFT
+Plymouth,Plymouth,United Kingdom,"[-4.12, 50.4]",England,GBPLY
+Portsmouth,Portsmouth,United Kingdom,"[-1.0879769, 50.8197675]",Hampshire,GBPME
+Poole,Poole,United Kingdom,"[-1.987248, 50.71505]",Dorset,GBPOO
+Preston,Preston,United Kingdom,"[-2.72, 53.75]",Lancashire,GBPRE
+Portbury,Portbury,United Kingdom,"[-2.72, 51.47]",North Somerset,GBPRU
+Parkeston Quay,Parkeston Quay,United Kingdom,"[1.255846, 51.94448]",Essex,GBPST
+Queenborough,Queenborough,United Kingdom,"[0.7470207, 51.4172853]",Kent,GBQUB
+Rye,Rye,United Kingdom,"[0.7372599999999999, 50.949708]",East Sussex,GBRYE
+Scarborough,Scarborough,United Kingdom,"[-0.399752, 54.283113]",North Yorkshire,GBSCA
+Sheerness,Sheerness,United Kingdom,"[0.764158, 51.44011]",Kent,GBSHS
+Southampton,Southampton,United Kingdom,"[-1.4043509, 50.90970040000001]",Hampshire,GBSOU
+Stanlow,Stanlow,United Kingdom,"[-2.3, 52.58]",Shropshire,GBSOW
+South Shields,South Shields,United Kingdom,"[-1.42, 54.98]",South Tyneside,GBSSH
+Sunderland,Sunderland,United Kingdom,"[-1.38, 54.9]",Sunderland,GBSUN
+Silvertown,Silvertown,United Kingdom,"[0.03, 51.5]",England,GBSVT
+Swansea,Swansea,United Kingdom,"[-3.97, 51.63]",Swansea [Abertawe GB-ATA],GBSWA
+Teesport,Teesport,United Kingdom,"[-1.15, 54.58]",Redcar and Cleveland,GBTEE
+Thamesport,Thamesport,United Kingdom,"[0.5217254000000001, 51.2787075]",Kent,GBTHP
+Tilbury,Tilbury,United Kingdom,"[0.360498, 51.463024]",Essex,GBTIL
+Tyne,Tyne,United Kingdom,"[-1.43, 55]",Newcastle upon Tyne,GBTYN
+Widnes,Widnes,United Kingdom,"[-2.73, 53.35]",Halton,GBWDN
+Workington,Workington,United Kingdom,"[-3.542752, 54.643569]",Cumbria,GBWOR
+Stonehouse,Stonehouse,United Kingdom,"[-2.279028, 51.74388099999999]",Gloucestershire,GBYVZ
+Saint George's,Saint George's,Grenada,"[-61.7487996, 12.0560975]",Saint George,GDSTG
+Batumi,Batumi,Georgia,"[41.6367455, 41.6167547]",Adjara,GEBUS
+Poti,Poti,Georgia,"[41.67137, 42.1582596]",Samegrelo-Upper Svaneti,GEPTI
+Tbilisi,Tbilisi,Georgia,"[44.827096, 41.7151377]",Tbilisi,GETBS
+Cayenne,Cayenne,French Guiana,"[-52.3134531, 4.92242]",Cayenne,GFCAY
+Degrad des Cannes,Dégrad des Cannes,French Guiana,"[-52.27, 4.85]",Cayenne,GFDDC
+Tema,Tema,Ghana,"[0.0186555, 5.7089238]",Greater Accra,GHTEM
+Takoradi,Takoradi,Ghana,"[-1.7830973, 4.9015794]",Western,GHTKD
+Gibraltar,Gibraltar,Gibraltar,"[-5.353599399999999, 36.1407734]",,GIGIB
+Banjul,Banjul,Gambia,"[-16.5790323, 13.4548761]",Banjul,GMBJL
+Conakry,Conakry,Guinea,"[-13.5784012, 9.641185499999999]",Conakry,GNCKY
+Basse-Terre,Basse-Terre,Guadeloupe,"[-61.72, 16]",Basse-Terre,GPBBR
+Gustavia,Gustavia,Guadeloupe,"[-62.8486533, 17.896877]",,GPGUS
+Pointe-a-Pitre,Pointe-à-Pitre,Guadeloupe,"[-61.5340424, 16.2376869]",Grande-Terre,GPPTP
+Saint Barthelemy,Saint Barthelemy,Guadeloupe,"[-61.5323532, 16.2544056]",Pointe-à-Pitre,GPSBH
+Bata,Bata,Equatorial Guinea,"[9.779022699999999, 1.8533177]",Litoral,GQBSG
+Malabo,Malabo,Equatorial Guinea,"[8.7371039, 3.7504118]",Bioko Norte,GQSSG
+Astakos,Astakós,Greece,"[21.08, 38.53]",Peloponnisos Dytiki Ellada ke Ionio,GRAST
+Eleusina,Eleusina,Greece,"[23.53, 38.03]",Attiki,GREEU
+Heraklion (Iraklion),Heraklion (Iraklion),Greece,"[25.17, 35.33]",Irakleio,GRHER
+Kapsalion (Kythira),Kapsalion (Kythira),Greece,,Wele‐Nzas,GRKAP
+Piraeus,Piraeus,Greece,"[23.62, 37.93]",Attica,GRPIR
+Rhodes,Rhodes,Greece,"[28.2174829, 36.4349631]",Egeo,GRRHO
+Thessaloniki,Thessaloníki,Greece,"[22.95, 40.63]",Makedonia Thraki,GRSKG
+Volos,Vólos,Greece,"[22.95, 39.37]",Thessalia Sterea Ellada,GRVOL
+Champerico,Champerico,Guatemala,"[-91.92, 14.3]",Retalhuleu,GTCHR
+Guatemala City,Guatemala City,Guatemala,"[-90.5068824, 14.6349149]",Guatemala,GTGUA
+Puerto Barrios,Puerto Barrios,Guatemala,"[-88.58551729999999, 15.695364]",Izabal,GTPBR
+Puerto Quetzal,Puerto Quetzal,Guatemala,"[-90.7580342, 13.9306292]",Escuintla,GTPRQ
+Puerto Santo Tomas de Castilla,Puerto Santo Tomás de Castilla,Guatemala,"[-88.62, 15.7]",Izabal,GTSTC
+Guam,Guam,Guam,"[144.793731, 13.444304]",,GUGUM
+Bissau,Bissau,Guinea-Bissau,"[-15.58, 11.85]",Bissau,GWOXB
+Georgetown,Georgetown,Guyana,"[-58.1551255, 6.8012793]",Demerara-Mahaica,GYGEO
+Hong Kong,Hong Kong,Hong Kong,"[114.109497, 22.396428]",,HKHKG
+Amapala,Amapala,Honduras,"[-87.65194729999999, 13.2916538]",,HNAMP
+La Ceiba,La Ceiba,Honduras,"[-86.7919009, 15.770288]",Atlantida,HNLCE
+Puerto Castilla,Puerto Castilla,Honduras,"[-85.9585544, 16.0173268]",Colon,HNPCA
+Puerto Cortes,Puerto Cortés,Honduras,"[-87.92857769999999, 15.825072]",Cortés,HNPCR
+Roatan,Roatán,Honduras,"[-86.55, 16.3]",Bay Islands,HNRTB
+San Lorenzo,San Lorenzo,Honduras,"[-87.45544319999999, 13.4326204]",Valle,HNSLO
+Tela,Tela,Honduras,"[-87.46535019999999, 15.7732601]",Atlantida,HNTEA
+Tegucigalpa,Tegucigalpa,Honduras,,Tegucigalpa,HNTGU
+Dubrovnik,Dubrovnik,Croatia,"[18.08, 42.65]",Dubrovacko-neretvanska županija,HRDBV
+Lastovo,Lastovo,Croatia,,Yoro,HRLST
+Ploce,Ploce,Croatia,"[17.43, 43.05]",Dubrovnik-Neretva County,HRPLE
+Rijeka,Rijeka,Croatia,"[14.4, 45.33]",Primorsko-goranska županija,HRRJK
+Split,Split,Croatia,"[16.45, 43.5]",Splitsko-dalmatinska županija,HRSPU
+Cap-Haitien,Cap-Haïtien,Haiti,"[-72.2, 19.75]",Nord,HTCAP
+Port-au-Prince,Port-au-Prince,Haiti,"[-72.3074326, 18.594395]",Ouest,HTPAP
+Budapest,Budapest,Hungary,"[19.040235, 47.497912]",Budapest,HUBUD
+"Amamapare, Ij","Amamapare, Ij",Indonesia,"[136.797607, -4.86529]",Papua,IDAMA
+Banjarmasin,Banjarmasin,Indonesia,"[114.5943784, -3.3186067]",South Kalimantan,IDBDJ
+"Bitung, Sulawesi","Bitung, Sulawesi",Indonesia,"[124.6303372, 1.1321809]",North Sulawesi,IDBIT
+"Belawan, Sumatra","Belawan, Sumatra",Indonesia,"[98.694221, 3.784303]",Sumatera Utara,IDBLW
+Belanak Terminal,Belanak Terminal,Indonesia,"[101.7068294, 0.2933469]",Riau,IDBNT
+Balikpapan,Balikpapan,Indonesia,"[116.83, -1.28]",Kalimantan Timur,IDBPN
+Batam Island,Batam Island,Indonesia,"[104.0304535, 1.0828276]",,IDBTM
+Buatan,Buatan,Indonesia,"[101.818901, 0.736198]",Riau,IDBUN
+Batu Ampal,Batu Ampal,Indonesia,"[116.856639, -1.245998]",Kalimantan Timur,IDBUR
+Cigading,Cigading,Indonesia,"[105.987668, -6.011872899999999]",Banten,IDCIG
+"Jambi, Sumatra","Jambi, Sumatra",Indonesia,"[103.6131203, -1.6101229]",Jambi,IDDJB
+"Jayapura, Irian Jaya","Jayapura, Irian Jaya",Indonesia,"[140.6689995, -2.5916025]",Papua,IDDJJ
+"Jakarta, Java","Jakarta, Java",Indonesia,"[106.83, -6.13]",Jakarta Raya,IDJKT
+Kabil,Kabil,Indonesia,"[104.13, 1.05]",Riau Islands,IDKAB
+Lobam,Lobam,Indonesia,"[104.27, 1]",,IDLBM
+Makassar,Makassar,Indonesia,"[119.4, -5.12]",Sulawesi Selatan,IDMAK
+"Medan, Sumatra","Medan, Sumatra",Indonesia,"[98.6722227, 3.5951956]",North Sumatra,IDMES
+"Merak, Java","Merak, Java",Indonesia,"[106.0064628, -5.9349331]",Banten,IDMRK
+Padang,Padang,Indonesia,"[100.35, -0.95]",Sumatera Barat,IDPDG
+"Panjang (Lampung, Sumatra)","Panjang (Lampung, Sumatra)",Indonesia,"[105.3218997, -5.464115899999999]",Lampung,IDPJG
+"Pekanbaru, Sumatra","Pekanbaru, Sumatra",Indonesia,"[101.4477793, 0.5070677]",Riau,IDPKU
+"Palembang, Sumatra","Palembang, Sumatra",Indonesia,"[104.7754307, -2.9760735]",South Sumatra,IDPLM
+Panjang,Panjang,Indonesia,"[105.3218997, -5.464115899999999]",Lampung,IDPNJ
+"Pontianak, Kalimantan","Pontianak, Kalimantan",Indonesia,"[109.3425039, -0.0263303]",West Kalimantan,IDPNK
+Perawang,Perawang,Indonesia,"[101.62, 0.63]",Riau,IDPWG
+"Sungai Pakning, Sumatra","Sungai Pakning, Sumatra",Indonesia,"[102.0775411, 1.3501405]",Riau,IDSEQ
+Semarang,Semarang,Indonesia,"[110.48, -6.97]",Jawa Tengah,IDSRG
+"Samarinda, Kalimantan","Samarinda, Kalimantan",Indonesia,"[117.1436154, -0.4948232]",East Kalimantan,IDSRI
+Surabaya,Surabaya,Indonesia,"[112.75, -7.23]",Jawa Timur,IDSUB
+Taboneo,Taboneo,Indonesia,"[114.42, -3.68]",Kalimantan Selatan,IDTAB
+"Teluk Betung, Sumatra","Teluk Betung, Sumatra",Indonesia,"[105.2670247, -5.445867]",Lampung,IDTBG
+Tanjung Priok,Tanjung Priok,Indonesia,"[106.8714848, -6.1320555]",Special Capital Region of Jakarta,IDTPP
+Tebingtinggi,Tebingtinggi,Indonesia,"[99.1566855, 3.3262879]",North Sumatra,IDTTI
+"Ujung Pandang, Sulawesi","Ujung Pandang, Sulawesi",Indonesia,"[119.5494844, -5.077747]",,IDUPG
+Drogheda,Drogheda,Ireland,"[-6.3560985, 53.717856]",Louth,IEDRO
+Dublin,Dublin,Ireland,"[-6.2603097, 53.3498053]",Dublin,IEDUB
+Foynes,Foynes,Ireland,"[-9.1051123, 52.6105253]",Limerick,IEFOV
+Galway,Galway,Ireland,"[-9.0567905, 53.270668]",Galway,IEGWY
+Kinsale,Kinsale,Ireland,"[-8.5225014, 51.7060502]",Cork,IEKLN
+Cork,Cork,Ireland,"[-8.4863157, 51.8968917]",Cork,IEORK
+Waterford,Waterford,Ireland,"[-7.1, 52.25]",Waterford,IEWAT
+Ashdod,Ashdod,Israel,"[34.655314, 31.804381]",,ILASH
+Hadera,Hadera,Israel,"[34.9196518, 32.4340458]",Haifa District,ILHAD
+Haifa,Haifa,Israel,"[34.989571, 32.7940463]",,ILHFA
+Netanya,Netanya,Israel,"[34.87, 32.33]",Center District,ILNAT
+Ramat Gan,Ramat Gan,Israel,"[34.8, 32.08]",Tel Aviv District,ILRMG
+Tel Aviv-Yafo,Tel Aviv-Yafo,Israel,"[34.75, 32.05]",Tel-Aviv,ILTLV
+Agra,Agra,India,"[78.00807449999999, 27.1766701]",Uttar Pradesh,INAGR
+Kakinada,Kakinada,India,"[82.2475, 16.9891]",Andhra Pradesh,INKAK
+Ahmedabad,Ahmedabad,India,"[72.62, 23.03]",Gujarat,INAMD
+Bangalore,Bangalore,India,"[77.58, 12.98]",Karnataka,INBLR
+Mumbai (ex Bombay),Mumbai (ex Bombay),India,"[72.82, 18.97]",Maharashtra,INBOM
+Kolkata (ex Calcutta),Kolkata (ex Calcutta),India,"[88.35, 22.57]",West Bengal,INCCU
+Cuddalore,Cuddalore,India,"[79.7680243, 11.744699]",Tamil Nadu,INCDL
+Coimbatore,Coimbatore,India,"[76.9558321, 11.0168445]",Tamil Nadu,INCJB
+Cochin,Cochin,India,"[76.23, 9.97]",Kerala,INCOK
+Daman,Daman,India,"[72.8327991, 20.3973736]",Daman and Diu,INDAM
+Dadri,Dadri,India,"[77.55, 28.57]",Uttar Pradesh,INDRI
+Goa,Goa,India,"[74.12399599999999, 15.2993265]",Goa,INGOI
+Haldia,Haldia,India,"[88.06981180000001, 22.0666742]",West Bengal,INHAL
+Hyderabad,Hyderabad,India,"[79.1766114, 15.1283849]",Andhra Pradesh,INHYD
+New Delhi,New Delhi,India,"[77.2, 28.6]",Delhi,INICD
+Mangalore,Mangalore,India,"[74.8559568, 12.9141417]",Karnataka,INIXE
+Kandla,Kandla,India,"[70.22, 23.03]",Gujarat,INIXY
+Jaipur,Jaipur,India,"[75.82, 26.92]",Rajasthan,INJAI
+Jodhpur,Jodhpur,India,"[73.03, 26.25]",Rajasthan,INJDH
+Kanpur,Kanpur,India,"[80.3318736, 26.449923]",Uttar Pradesh,INKNU
+Krishnapatnam,Krishnapatnam,India,"[80.1248476, 14.2886008]",Andhra Pradesh,INKRI
+Ludhiana,Ludhiana,India,"[75.8572758, 30.900965]",Punjab,INLUH
+Chennai (ex Madras),Chennai (ex Madras),India,"[80.28, 13.08]",Tamil Nadu,INMAA
+Moradabad,Moradabad,India,"[78.78, 28.83]",Uttar Pradesh,INMOR
+Marmagao (Marmugao),Marmagao (Marmugao),India,"[73.78, 15.4]",Goa,INMRM
+Mundra,Mundra,India,"[69.7213266, 22.8395202]",Gujarat,INMUN
+Nagpur,Nagpur,India,"[79.0881546, 21.1458004]",Maharashtra,INNAG
+Jawaharlal Nehru (Nhava Sheva),Jawaharlal Nehru (Nhava Sheva),India,"[72.9504858, 18.9497162]",Maharashtra,INNSA
+Panipat,Panipat,India,"[76.9635023, 29.3909464]",Haryana,INPAP
+Pipavav (Victor) Port,Pipavav (Victor),India,"[71.55, 20.97]",Gujarat,INPAV
+Pithampur,Pithampur,India,"[75.6822899, 22.613252]",Madhya Pradesh,INPIR
+Pune,Pune,India,"[73.8567437, 18.5204303]",Maharashtra,INPNQ
+Surat,Surat,India,"[72.83, 21.17]",Gujarat,INSTV
+Tuticorin,Tuticorin,India,"[78.13, 8.78]",Tamil Nadu,INTUT
+Visakhapatnam,Visakhapatnam,India,"[83.3, 17.7]",Andhra Pradesh,INVTZ
+Veraval,Veraval,India,"[70.3628516, 20.9158979]",Gujarat,INVVA
+Umm Qasr Port,Umm Qasr,Iraq,"[47.93, 30.03]",Al Basrah,IQUQR
+Bandar Khomeini,Bandar Khomeini,"Iran, Islamic Republic of","[49.1, 30.43]",Khuzestan,IRBKM
+Bandar Abbas,Bandar Abbas,"Iran, Islamic Republic of","[56.27, 27.18]",Hormozgan,IRBND
+Bushehr,Bushehr,"Iran, Islamic Republic of","[50.83, 28.97]",Bushehr,IRBUZ
+Khorramshahr,Khorramshahr,"Iran, Islamic Republic of","[48.1891185, 30.4256219]",Khuzestan,IRKHO
+Chah Bahar,Chah Bahar,"Iran, Islamic Republic of","[60.6459285, 25.296878]",Sistan Va Baluchestan,IRZBR
+Eskifjordur - hofn,Eskifjørdur - høfn,Iceland,"[65.0726522, -14.0538958]",,ISESK
+Grundartangi,Grundartangi,Iceland,"[-21.7758053, 64.3603796]",West,ISGRT
+Reykjavik,Reykjavík,Iceland,"[-21.95, 64.15]",Capital Region,ISREY
+Ancona,Ancona,Italy,"[13.5, 43.63]",Ancona,ITAOI
+Augusta,Augusta,Italy,"[15.22, 37.22]",Sicilia,ITAUG
+Bari,Bari,Italy,"[16.85, 41.13]",Bari,ITBRI
+Cagliari,Cagliari,Italy,"[9.12, 39.22]",Cagliari,ITCAG
+Crotone,Crotone,Italy,"[17.13, 39.08]",Calabria,ITCRV
+Catania,Catania,Italy,"[15.1, 37.5]",Sicilia,ITCTA
+Civitavecchia,Civitavecchia,Italy,"[11.8, 42.1]",Lazio,ITCVV
+Faenza,Faenza,Italy,"[11.8774091, 44.2898527]",Emilia-Romagna,ITFAE
+Gaeta,Gaeta,Italy,"[13.58, 41.2]",Lazio,ITGAE
+Gioia Tauro,Gioia Tauro,Italy,"[15.9, 38.42]",Calabria,ITGIT
+Genova,Genova,Italy,"[8.95, 44.42]",Genova,ITGOA
+Livorno,Livorno,Italy,"[10.32, 43.55]",Toscana,ITLIV
+Milano,Milano,Italy,"[9.1859243, 45.4654219]",Lombardy,ITMIL
+Monfalcone,Monfalcone,Italy,"[13.5331727, 45.8050468]",Friuli-Venezia Giulia,ITMNF
+Modena,Modena,Italy,"[10.9252269, 44.647128]",Emilia-Romagna,ITMOD
+Napoli,Napoli,Italy,"[14.25, 40.83]",Napoli,ITNAP
+Padova,Padova,Italy,"[11.8767611, 45.4064349]",Veneto,ITPDA
+Pesaro,Pesaro,Italy,"[12.92, 43.9]",Pesaro e Urbino,ITPES
+Porto Garibaldi,Porto Garibaldi,Italy,"[12.2395659, 44.6780654]",Emilia-Romagna,ITPGA
+Palermo,Palermo,Italy,"[13.37, 38.12]",Palermo,ITPMO
+Capri,Capri,Italy,"[14.23, 40.55]",Napoli,ITPRJ
+Pescara,Pescara,Italy,"[14.23, 42.47]",Pescara,ITPSR
+Portoscuso (Porto Vesme),Portoscuso (Porto Vesme),Italy,"[8.38, 39.2]",Sardegna,ITPVE
+Ravenna,Ravenna,Italy,"[12.2035294, 44.4183598]",Emilia-Romagna,ITRAN
+Salerno,Salerno,Italy,"[14.7680961, 40.68244079999999]",Campania,ITSAL
+La Spezia,La Spezia,Italy,"[9.83, 44.12]",Liguria,ITSPE
+Savona,Savona,Italy,"[8.5, 44.28]",Savona,ITSVN
+Taranto,Taranto,Italy,"[17.23, 40.48]",Puglia,ITTAR
+Trapani,Trapani,Italy,"[12.48, 38.02]",Trapani,ITTPS
+Torino,Torino,Italy,"[7.686856499999999, 45.070312]",Piedmont,ITTRN
+Trieste,Trieste,Italy,"[13.7768182, 45.6495264]",Friuli-Venezia Giulia,ITTRS
+Venezia,Venezia,Italy,"[12.33, 45.43]",Venezia,ITVCE
+Vado Ligure,Vado Ligure,Italy,"[8.45, 44.27]",Savona,ITVDL
+Viareggio,Viareggio,Italy,"[10.2513103, 43.8657267]",Toscana,ITVIA
+Kingston,Kingston,Jamaica,"[-76.8028933, 18.0423274]",,JMKIN
+Montego Bay,Montego Bay,Jamaica,"[-77.8938895, 18.4762228]",Saint James Parish,JMMBJ
+Ocho Rios,Ocho Rios,Jamaica,"[-77.0967357, 18.4056822]",Saint Ann Parish,JMOCJ
+Port Kaiser,Port Kaiser,Jamaica,"[-77.1319777, 17.8939846]",Saint Catherine Parish,JMPKS
+Al 'Aqabah,Al 'Aqabah,Jordan,"[35, 29.53]",Aqaba,JOAQJ
+Aburatsu,Aburatsu,Japan,"[131.4041631, 31.5829755]",Miyazaki,JPABU
+Aomori,Aomori,Japan,"[140.7473647, 40.822072]",Aomori,JPAOJ
+Akita,Akita,Japan,"[140.1025642, 39.7200079]",Akita,JPAXT
+Chiba,Chiba,Japan,"[140.1062907, 35.6072668]",Tiba [Chiba],JPCHB
+"Fukuyama, Hiroshima","Fukuyama, Hiroshima",Japan,"[133.3623127, 34.4858993]",Hirosima [Hiroshima],JPFKY
+Hachinohe,Hachinohe,Japan,"[141.4883986, 40.5122839]",Aomori,JPHHE
+Hibi,Hibi,Japan,"[133.9221388, 34.4574823]",Okayama,JPHIB
+Hitachinaka,Hitachinaka,Japan,"[140.5346762, 36.3966149]",Ibaraki,JPHIC
+Hiroshima,Hiroshima,Japan,"[132.4552927, 34.3852029]",Hirosima [Hiroshima],JPHIJ
+Himeji,Himeji,Japan,"[134.6853528, 34.815149]",Hyôgo[Hyogo],JPHIM
+Hikoshima,Hikoshima,Japan,,Yamaguti [Yamaguchi],JPHIS
+Hakodate,Hakodate,Japan,"[140.7288103, 41.7687933]",Hokkaidô [Hokkaido],JPHKD
+Hakata/Fukuoka,Hakata/Fukuoka,Japan,"[130.42, 33.6]",Hukuoka [Fukuoka],JPHKT
+Hamada,Hamada,Japan,"[132.0797833, 34.8993025]",Simane [Shimane],JPHMD
+Hamamatsu,Hamamatsu,Japan,"[137.7261258, 34.7108344]",Sizuoka [Shizuoka],JPHMM
+Hososhima,Hososhima,Japan,"[131.6690227, 32.4275172]",Miyazaki,JPHSM
+Hitachi,Hitachi,Japan,"[140.6514693, 36.5991539]",Ibaraki,JPHTC
+Niihama,Niihama,Japan,"[133.2833512, 33.96028950000001]",Ehime,JPIHA
+Imabari,Imabari,Japan,"[132.99786, 34.0660979]",Ehime,JPIMB
+Imari,Imari,Japan,"[129.880269, 33.2645856]",Saga,JPIMI
+Ishigaki,Ishigaki,Japan,"[124.15, 24.33]",Okinawa,JPISG
+Ishikari,Ishikari,Japan,"[141.3155196, 43.1713843]",Hokkaidô [Hokkaido],JPISI
+Ishinomaki,Ishinomaki,Japan,"[141.3029167, 38.4344802]",Miyagi,JPISM
+Isa,Isa,Japan,"[130.6, 32.05]",Kagosima [Kagoshima],JPISS
+Iwakuni,Iwakuni,Japan,"[132.2188479, 34.1665616]",Yamaguti [Yamaguchi],JPIWK
+Iyomishima,Iyomishima,Japan,"[132.7656808, 33.8416238]",Ehime,JPIYM
+Kochi,Kochi,Japan,"[133.5311675, 33.5588035]",Kôti [Kochi],JPKCZ
+Kakogawa,Kakogawa,Japan,"[134.8411775, 34.7569503]",Hyôgo[Hyogo],JPKGA
+Niigata,Niigata,Japan,"[139.0364126, 37.9161924]",Niigata,JPKIJ
+Kumamoto,Kumamoto,Japan,"[130.7078911, 32.8031004]",Kumamoto,JPKMJ
+"Kanda, Fukuoka","Kanda, Fukuoka",Japan,"[130.4017155, 33.5903547]",Hukuoka [Fukuoka],JPKND
+Kinuura,Kinuura,Japan,"[136.9065647, 35.1801883]",Aiti [Aichi],JPKNU
+Kanazawa,Kanazawa,Japan,"[136.6562051, 36.56132540000001]",Isikawa [Ishikawa],JPKNZ
+Kagoshima,Kagoshima,Japan,"[130.5571158, 31.5965535]",Kagosima [Kagoshima],JPKOJ
+"Kure, Hiroshima","Kure, Hiroshima",Japan,"[132.5658045, 34.2492541]",Hirosima [Hiroshima],JPKRE
+"Kashima, Ibaraki","Kashima, Ibaraki",Japan,"[140.6448128, 35.9657558]",Ibaraki,JPKSM
+Kushiro,Kushiro,Japan,"[144.3813556, 42.9848542]",Hokkaidô [Hokkaido],JPKUH
+Kawasaki,Kawasaki,Japan,"[139.7030511, 35.5309058]",Kanagawa,JPKWS
+Kisarazu,Kisarazu,Japan,"[140.1062907, 35.6072668]",Tiba [Chiba],JPKZU
+Maizuru,Maizuru,Japan,"[135.7680294, 35.0116363]",Hyôgo [Kyoto],JPMAI
+"Miike, Fukuoka",Miike,Japan,"[130.4801879, 33.04974670000001]",Hukuoka [Fukuoka],JPMII
+Moji/Kitakyushu,Moji/Kitakyushu,Japan,"[130.97, 33.9]",Hukuoka [Fukuoka],JPMOJ
+Mutsure,Mutsure,Japan,,Yamaguti [Yamaguchi],JPMTR
+Muroran,Muroran,Japan,"[140.9737991, 42.3152306]",Hokkaidô [Hokkaido],JPMUR
+Matsuyama,Matsuyama,Japan,"[132.7655752, 33.8391574]",Ehime,JPMYJ
+"Naha, Okinawa","Naha, Okinawa",Japan,"[127.6791568, 26.2123124]",Okinawa,JPNAH
+Nakanoseki,Nakanoseki,Japan,"[131.53, 34]",Yamaguti [Yamaguchi],JPNAN
+Naoetsu,Naoetsu,Japan,"[138.2550381, 37.1858604]",Niigata,JPNAO
+Naoshima,Naoshima,Japan,"[133.9956894, 34.4597032]",Kagawa,JPNAS
+"Nagoya, Aichi","Nagoya, Aichi",Japan,"[136.906398, 35.1814464]",Aiti [Aichi],JPNGO
+Nagasaki,Nagasaki,Japan,"[129.877667, 32.7502856]",Nagasaki,JPNGS
+Oita,Oita,Japan,"[131.609272, 33.2395578]",Ôita [Oita],JPOIT
+Okinawa,Okinawa,Japan,"[127.8055832, 26.3344266]",Okinawa,JPOKA
+Omaezaki,Omaezaki,Japan,"[138.1281269, 34.6379866]",Sizuoka [Shizuoka],JPOMZ
+Onahama,Onahama,Japan,"[140.9055861, 36.9490884]",Hukusima [Fukushima],JPONA
+Onomichi,Onomichi,Japan,"[133.2048886, 34.4088756]",Hirosima [Hiroshima],JPONO
+Osaka,Osaka,Japan,"[135.5, 34.67]",Ôsaka [Osaka],JPOSA
+Otake,Otake,Japan,"[132.2224752, 34.2379773]",Hirosima [Hiroshima],JPOTK
+Saganoseki,Saganoseki,Japan,"[131.8755159, 33.2489479]",Ôita [Oita],JPSAG
+Shibushi,Shibushi,Japan,"[131.045336, 31.495442]",Kagosima [Kagoshima],JPSBS
+"Sendai, Miyagi","Sendai, Miyagi",Japan,"[140.92, 38.13]",Miyagi,JPSDJ
+Sendaishinko,Sendaishinko,Japan,"[140.8721, 38.2688373]",Miyagi,JPSDS
+Sodegaura,Sodegaura,Japan,"[140.1062907, 35.6072668]",Tiba [Chiba],JPSDU
+Satsumasendai,Satsumasendai,Japan,"[130.25, 31.82]",Kagosima [Kagoshima],JPSEN
+Shimonoseki,Shimonoseki,Japan,"[130.941459, 33.9578307]",Yamaguti [Yamaguchi],JPSHS
+Sakaide,Sakaide,Japan,"[133.8605102, 34.3163193]",Kagawa,JPSKD
+Shikama,Shikama,Japan,"[135.1830706, 34.6912688]",Hyôgo[Hyogo],JPSKM
+Sakata,Sakata,Japan,"[139.8365153, 38.9144331]",Yamagata,JPSKT
+Souma,Souma,Japan,"[140.9194697, 37.7966242]",Hukusima [Fukushima],JPSMA
+Sakaiminato,Sakaiminato,Japan,"[133.2314862, 35.5395916]",Tottori,JPSMN
+Shimizu,Shimizu,Japan,"[138.4895275, 35.0158879]",Sizuoka [Shizuoka],JPSMZ
+Takamatsu,Takamatsu,Japan,"[134.046574, 34.3427879]",Kagawa,JPTAK
+Tobata/Kitakyushu,Tobata/Kitakyushu,Japan,"[130.83, 33.88]",Hukuoka [Fukuoka],JPTBT
+Tagonoura,Tagonoura,Japan,"[138.3827596, 34.975562]",Sizuoka [Shizuoka],JPTGO
+Toyohashi,Toyohashi,Japan,"[136.9065647, 35.1801883]",Aiti [Aichi],JPTHS
+Tokushima,Tokushima,Japan,"[134.5548438, 34.0702703]",Tokusima [Tokushima],JPTKS
+Tokuyama,Tokuyama,Japan,"[131.8144403, 34.0647516]",Yamaguti [Yamaguchi],JPTKY
+Tsukumi,Tsukumi,Japan,"[131.8612771, 33.0721832]",Ôita [Oita],JPTMI
+Tomakomai,Tomakomai,Japan,"[141.6053721, 42.6343021]",Hokkaidô [Hokkaido],JPTMK
+Tonda,Tonda,Japan,"[131.7600531, 34.0748851]",Yamaguti [Yamaguchi],JPTND
+Tokachi,Tokachi,Japan,"[143.691, 42.915]",Hokkaidô [Hokkaido],JPTOK
+Toyamashinko,Toyamashinko,Japan,"[137.2136768, 36.6959518]",Toyama,JPTOS
+Toyama,Toyama,Japan,"[137.2136768, 36.6959518]",Toyama,JPTOY
+Tsuruga,Tsuruga,Japan,"[136.0554408, 35.6452443]",Hukui [Fukui],JPTRG
+Tokyo,Tokyo,Japan,"[139.75, 35.68]",Tôkyô [Tokyo],JPTYO
+Ube,Ube,Japan,"[131.2467858, 33.9515087]",Yamaguti [Yamaguchi],JPUBJ
+Kobe,Kobe,Japan,"[135.17, 34.68]",Hyôgo[Hyogo],JPUKB
+Unten,Unten,Japan,"[128.0033058, 26.681767]",Okinawa,JPUNT
+Wakayama,Wakayama,Japan,"[135.1708083, 34.2305113]",Wakayama,JPWAK
+Yatsushiro,Yatsushiro,Japan,"[130.6017433, 32.5074371]",Kumamoto,JPYAT
+Yokkaichi,Yokkaichi,Japan,"[136.6244847, 34.9651567]",Mie,JPYKK
+Yokohama,Yokohama,Japan,"[139.65, 35.45]",Kanagawa,JPYOK
+Yokosuka,Yokosuka,Japan,"[139.67, 35.28]",Kanagawa,JPYOS
+Yawata/Kitakyushu,Yawata/Kitakyushu,Japan,"[130.8, 33.85]",Hukuoka [Fukuoka],JPYWT
+Mombasa,Mombasa,Kenya,"[39.6682065, -4.0434771]",Mombasa,KEMBA
+Nairobi,Nairobi,Kenya,"[36.8219462, -1.2920659]",Nairobi,KENBO
+Kampong Saom,Kâmpóng Saôm,Cambodia,"[103.52, 10.6]",Preah Sihanouk,KHKOS
+Phnom Penh,Phnom Penh,Cambodia,"[104.8921668, 11.5448729]",Phnom Penh,KHPNH
+Tarawa,Tarawa,Kiribati,"[172.9790528, 1.3290526]",,KITRW
+"Mutsamudu, Anjouan","Mutsamudu, Anjouan",Comoros,"[44.38, -12.15]",Anjouan,KMMUT
+Moroni,Moroni,Comoros,"[43.2473146, -11.7172157]",Grande Comore,KMYVA
+"Basseterre, Saint Kitts","Basseterre, Saint Kitts",Saint Kitts and Nevis,"[-62.7176924, 17.3026058]",Saint George Basseterre Parish,KNBAS
+Nevis,Nevis,Saint Kitts and Nevis,"[-62.58, 17.15]",,KNNEV
+Chongjin,Chongjin,"Korea, Democratic People's Republic of","[129.723402, 41.7669671]",North Hamgyong,KPCHO
+Wonsan,Wonsan,"Korea, Democratic People's Republic of","[127.4460001, 39.1538529]",Kangwon,KPWON
+Jeju,Jeju,South Korea,"[126.52, 33.5]",Jeju-teukbyeoljachido [Jeju],KRCHA
+Jinhae,Jinhae,South Korea,"[128.65, 35.13]",Gyeongsangnamdo [Kyongsangnam-do],KRCHF
+Janghang/Seocheon-gun,Janghang/Seocheon-gun,South Korea,"[126.68, 36]",Chungcheongnamdo [Ch'ungch'ongnam-do],KRCHG
+Cheonan,Cheonan,South Korea,"[127.15, 36.8]",Chungcheongnamdo [Ch'ungch'ongnam-do],KRCHO
+Chungju,Chungju,South Korea,"[127.92, 36.97]",Chungcheongbugdo [Ch'ungch'ongbuk-do],KRCHU
+Changwon,Changwon,South Korea,"[128.67, 35.22]",Gyeongsangnamdo [Kyongsangnam-do],KRCHW
+Cheongwon-gun,Cheongwon-gun,South Korea,"[127.48, 36.63]",Chungcheongbugdo [Ch'ungch'ongbuk-do],KRCWO
+Goyang,Goyang,South Korea,"[126.82, 37.65]",Gyeonggido [Kyonggi-do],KRGYG
+Jinju,Jinju,South Korea,"[128.08, 35.17]",Gyeongsangnamdo [Kyongsangnam-do],KRHIN
+Hamyang-gun,Hamyang-gun,South Korea,"[127.72, 35.52]",Gyeongsangnamdo [Kyongsangnam-do],KRHYG
+Hyeonpoong/Daegu,Hyeonpoong/Daegu,South Korea,"[128.43, 35.68]",Daegu Gwang'yeogsi [Taegu-Kwangyokshi],KRHYP
+Incheon,Incheon,South Korea,"[126.6168962, 37.4767894]",Incheon,KRICH
+Incheon,Incheon,South Korea,"[126.62, 37.45]",Incheon Gwang'yeogsi [Incheon],KRINC
+Jeongeup,Jeongeup,South Korea,"[126.85, 35.57]",Jeonrabugdo [Chollabuk-do],KRJEO
+Geoje,Geoje,South Korea,"[128.68, 34.9]",Gyeongsangnamdo [Kyongsangnam-do],KRJGE
+Jangheung-gun,Jangheung-gun,South Korea,"[126.9, 34.67]",Jeonranamdo [Chollanam-do],KRJHG
+Gwangyang,Gwangyang,South Korea,"[127.7, 34.93]",Jeonranamdo [Chollanam-do],KRKAN
+Geoje,Geoje,South Korea,"[128.58, 34.85]",Gyeongsangnamdo [Kyongsangnam-do],KRKJE
+Gimcheon,Gimcheon,South Korea,"[128.1, 36.12]",Gyeongsangbugdo [Kyongsangbuk-do],KRKMC
+Pohang,Pohang,South Korea,"[129.37, 36.03]",Gyeongsangbugdo [Kyongsangbuk-do],KRKPO
+Gumi,Gumi,South Korea,"[128.33, 36.12]",Gyeongsangbugdo [Kyongsangbuk-do],KRKUM
+Gunsan,Gunsan,South Korea,"[126.72, 35.98]",Jeonrabugdo [Chollabuk-do],KRKUV
+Gwangju,Gwangju,South Korea,"[126.9, 35.15]",Gwangju Gwang'yeogsi [Kwangju-Kwangyokshi],KRKWJ
+Gwangju,Gwangju,South Korea,"[127.25, 37.4]",Gyeonggido [Kyonggi-do],KRKWU
+Masan,Masan,South Korea,"[128.57, 35.2]",Gyeongsangnamdo [Kyongsangnam-do],KRMAS
+Mokpo,Mokpo,South Korea,"[126.38, 34.8]",Jeonranamdo [Chollanam-do],KRMOK
+Namyang/Goheung-gun,Namyang/Goheung-gun,South Korea,"[127.33, 34.72]",Jeonranamdo [Chollanam-do],KRNYJ
+Namyangju,Namyangju,South Korea,"[127.2, 37.63]",Gyeonggido [Kyonggi-do],KRNYU
+Okpo/Geoje,Okpo/Geoje,South Korea,"[128.7, 34.88]",Gyeongsangnamdo [Kyongsangnam-do],KROKP
+Onsan/Ulsan,Onsan/Ulsan,South Korea,"[129.35, 35.43]",Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi],KRONS
+Busan,Busan,South Korea,"[129.05, 35.13]",Busan Gwang'yeogsi [Pusan-Kwangyokshi],KRPUS
+Samcheonpo/Sacheon,Samcheonpo/Sacheon,South Korea,"[128.07, 34.92]",Gyeongsangnamdo [Kyongsangnam-do],KRSCP
+Seoul,Seoul,South Korea,"[126.93, 37.52]",Seoul-teukbyeolsi [Seoul],KRSEL
+Seosan,Seosan,South Korea,"[126.45, 36.78]",Chungcheongnamdo [Ch'ungch'ongnam-do],KRSSA
+Daegu,Daegu,South Korea,"[128.58, 35.87]",Daegu Gwang'yeogsi [Taegu-Kwangyokshi],KRTAE
+Daejeon,Daejeon,South Korea,"[127.42, 36.32]",Daejeon Gwang'yeogsi [Taejon-Kwangyokshi],KRTJN
+Tongyeong,Tongyeong,South Korea,"[128.42, 34.83]",Gyeongsangnamdo [Kyongsangnam-do],KRTYG
+Ulsan,Ulsan,South Korea,"[129.32, 35.53]",Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi],KRUSN
+Yesan,Yesan,South Korea,"[126.83, 36.68]",Chungcheongnamdo [Ch'ungch'ongnam-do],KRYES
+Yeosu,Yeosu,South Korea,"[127.72, 34.75]",Jeonranamdo [Chollanam-do],KRYOS
+Kuwait,Kuwait,Kuwait,"[47.9774052, 29.375859]",Al Asimah,KWKWI
+Shuaiba,Shuaiba,Kuwait,"[48.13, 29.03]",Ahmadi,KWSAA
+Shuwaikh,Shuwaikh,Kuwait,"[47.9670891, 29.3671915]",Al Asimah,KWSWK
+Grand Cayman,Grand Cayman,Cayman Islands,"[-81.35, 19.28]",,KYGCM
+"Georgetown, Grand Cayman","Georgetown, Grand Cayman",Cayman Islands,"[-81.38, 19.3]",George Town,KYGEC
+Beirut,Beirut,Lebanon,"[35.48, 33.83]",Beirut,LBBEY
+Tripoli,Tripoli,Lebanon,"[35.8308371, 34.4380941]",North,LBKYE
+Castries,Castries,Saint Lucia,"[-60.97, 14.02]",Castries,LCCAS
+Saint Lucia Apt,Saint Lucia Apt,Saint Lucia,"[-60.93, 13.7]",Queensland,LCSLU
+Vieux Fort,Vieux Fort,Saint Lucia,"[-60.94964329999999, 13.720608]",Vieux Fort,LCVIF
+Colombo,Colombo,Sri Lanka,"[79.85, 6.92]",Western Province,LKCMB
+Monrovia,Monrovia,Liberia,"[-10.8, 6.3]",Montserrado,LRMLW
+Klaipeda,Klaipeda,Lithuania,"[21.1442794, 55.70329479999999]",Klaipėda County,LTKLJ
+Aizkraukle,Aizkraukle,Latvia,"[25.27645, 57.69487600000001]",Burtnieku novads (Burtnieki),LVAIZ
+Riga,Riga,Latvia,"[24.093533, 56.961029]",Riga,LVRIX
+Salacgriva,Salacgriva,Latvia,"[24.4923901, 57.7069608]",Limbažu novads (Limbaži),LVSAL
+Ventspils,Ventspils,Latvia,"[21.8587558, 57.2833682]",Ventspils,LVVNT
+Bingazi (Benghazi),Bingazi (Benghazi),Libya,"[20.1879106, 32.0947711]",Banghazi,LYBEN
+Al Khums,Al Khums,Libya,"[14.27, 32.65]",Al Murqub,LYKHO
+Misurata,Misurata,Libya,"[15.1025075, 32.3196827]",Misratah,LYMRA
+Tripoli,Tripoli,Libya,"[13.1913383, 32.8872094]",Tripoli,LYTIP
+Agadir,Agadir,Morocco,"[-9.5981072, 30.4277547]",Souss-Massa-Drâa,MAAGA
+Casablanca,Casablanca,Morocco,"[-7.6, 33.58]",Casablanca [Dar el Beïda]*,MACAS
+El Jadida,El Jadida,Morocco,"[-8.5, 33.25]",El Jadida,MAELJ
+Mohammedia,Mohammedia,Morocco,"[-7.384854699999999, 33.6835086]",Grand Casablanca,MAMOH
+Kenitra (ex Port Lyautey),Kenitra (ex Port Lyautey),Morocco,"[-6.5890166, 34.2540503]",Gharb-Chrarda-Beni Hssen,MANNA
+Tanger Med,Tanger Med,Morocco,"[-5.7907302, 35.7407719]",Tanger-Assilah,MAPTM
+Safi,Safi,Morocco,"[-9.2272033, 32.3008151]",Doukkala-Abda,MASFI
+Tangier,Tangier,Morocco,"[-5.82, 35.78]",Tangier-Tetouan,MATNG
+Monaco,Monaco,Monaco,"[7.420815999999999, 43.73741099999999]",,MCMON
+Giurgiulesti,Giurgiulesti,"Moldova, Republic of","[28.18, 45.47]",Cahul,MDGIU
+Bar,Bar,Montenegro,"[19.08, 42.08]",Bar,MEBAR
+Antsiranana,Antsiranana,Madagascar,"[49.2942833, -12.3231349]",Antsiranana,MGDIE
+Ehoala,Ehoala,Madagascar,"[46.95, -25.1]",Toliara,MGEHL
+Majunga (Mahajanga),Majunga (Mahajanga),Madagascar,"[46.3336857, -15.6921494]",Mahajanga,MGMJN
+Nosy-Be,Nosy-Be,Madagascar,"[48.25, -13.33]",,MGNOS
+Tulear (Toliara),Tulear (Toliara),Madagascar,"[43.6854936, -23.3516191]",Toliara,MGTLE
+Tamatave (Toamasina),Tamatave (Toamasina),Madagascar,"[49.3957836, -18.1442811]",Toamasina,MGTMM
+Toamasina,Toamasina,Madagascar,"[49.3957836, -18.1442811]",Toamasina,MGTOA
+Majuro,Majuro,Marshall Islands,"[171.38, 7.1]",Majuro,MHMAJ
+Bamako,Bamako,Mali,"[-8.0028892, 12.6392316]",Bamako,MLBKO
+Yangon,Yangon,Myanmar,"[96.19513200000002, 16.8660694]",Yangon Region,MMRGN
+Macau,Macau,Macao,"[113.53, 22.2]",,MOMFM
+Saipan,Saipan,Northern Mariana Islands,"[145.750967, 15.177801]",Saipan,MPSPN
+Fort-de-France,Fort-de-France,Martinique,"[-61.0587804, 14.6160647]",Fort-de-France,MQFDF
+Nouadhibou,Nouadhibou,Mauritania,"[-17.0362272, 20.9425179]",Dakhlet Nouadhibou,MRNDB
+Nouakchott,Nouakchott,Mauritania,"[-15.9582372, 18.0735299]",Nouakchott,MRNKC
+Marsaxlokk,Marsaxlokk,Malta,"[14.53, 35.83]",Birzebbuga,MTMAR
+"Mgarr, Gozo","Mgarr, Gozo",Malta,"[14.4199322, 35.8904967]",Attard,MTMGZ
+Valletta,Valletta,Malta,"[14.5, 35.88]",Valletta,MTMLA
+Port Louis,Port Louis,Mauritius,"[57.502332, -20.1668958]",Port Louis,MUPLU
+Male,Male,Maldives,"[73.5, 4.17]",Male,MVMLE
+Blantyre,Blantyre,Malawi,"[35.0167866, -15.7666707]",Southern Region,MWBLZ
+Acapulco,Acapulco,Mexico,"[-99.87, 16.85]",Guerrero,MXACA
+Altamira,Altamira,Mexico,"[-97.92, 22.4]",Tamaulipas,MXATM
+Coatzacoalcos,Coatzacoalcos,Mexico,"[-94.4, 18.13]",Veracruz,MXCOA
+Ensenada,Ensenada,Mexico,"[-116.6, 31.85]",Baja California,MXESE
+Guaymas,Guaymas,Mexico,"[-110.88, 27.92]",Sonora,MXGYM
+Ciudad de Mexico,Ciudad de México,Mexico,"[-99.13, 19.43]",Distrito Federal,MXMEX
+Progreso,Progreso,Mexico,"[-89.65, 21.27]",Yucatán,MXPGO
+Puerto Morelos,Puerto Morelos,Mexico,"[-86.87, 20.83]",Quintana Roo,MXPMS
+Reynosa,Reynosa,Mexico,"[-98.28, 26.08]",Tamaulipas,MXREX
+Salina Cruz,Salina Cruz,Mexico,"[-95.18, 16.17]",Oaxaca,MXSCX
+Tampico,Tampico,Mexico,"[-97.87, 22.25]",Tamaulipas,MXTAM
+Topolobampo,Topolobampo,Mexico,"[-109.05, 25.6]",Sinaloa,MXTPB
+Veracruz,Veracruz,Mexico,"[-96.08, 19.2]",Veracruz,MXVER
+Manzanillo,Manzanillo,Mexico,"[-104.3, 19.05]",Colima,MXZLO
+"Kota Kinabalu, Sabah","Kota Kinabalu, Sabah",Malaysia,"[116.0734568, 5.980408]",Sabah,MYBKI
+"Bintulu, Sarawak","Bintulu, Sarawak",Malaysia,"[113.0419069, 3.171322]",Sarawak,MYBTU
+Bagan Luar (Butterworth),Bagan Luar (Butterworth),Malaysia,"[100.370839, 5.410509999999999]",Penang,MYBWH
+Johor Bahru,Johor Bahru,Malaysia,"[103.7413591, 1.492659]",Johor,MYJHB
+"Kuching, Sarawak","Kuching, Sarawak",Malaysia,"[110.3785438, 1.6076812]",Sarawak,MYKCH
+Kuantan (Tanjong Gelang),Kuantan (Tanjong Gelang),Malaysia,"[103.43, 3.9608333]",Pahang,MYKUA
+"Labuan, Sabah","Labuan, Sabah",Malaysia,"[115.230825, 5.2831456]",Wilayah Persekutuan Labuan,MYLBU
+Mersing,Mersing,Malaysia,"[103.8361151, 2.430917]",Johor,MYMEP
+Malacca,Malacca,Malaysia,"[102.2500868, 2.189594]",Malacca,MYMKZ
+Muar,Muar,Malaysia,"[102.5848717, 2.0630519]",Johor,MYMUA
+"Miri, Sarawak","Miri, Sarawak",Malaysia,"[113.9913832, 4.399493]",Sarawak,MYMYY
+Penang (Georgetown),Penang (Georgetown),Malaysia,"[100.3233734, 5.4163033]",Pulau Pinang,MYPEN
+"Pasir Gudang, Johor","Pasir Gudang, Johor",Malaysia,"[103.9029689, 1.470288]",Johor,MYPGU
+Port Klang (Pelabuhan Klang),Port Klang (Pelabuhan Klang),Malaysia,"[101.4, 3]",Selangor,MYPKG
+"Sibu, Sarawak","Sibu, Sarawak",Malaysia,"[111.830535, 2.287284]",Sarawak,MYSBW
+"Sandakan, Sabah","Sandakan, Sabah",Malaysia,"[118.1171729, 5.839443999999999]",Sabah,MYSDK
+Tanjong Baran,Tanjong Baran,Malaysia,"[113.9769444, 4.593333299999999]",Sarawak,MYTBA
+Kuala Terengganu,Kuala Terengganu,Malaysia,"[103.1370142, 5.329624]",Terengganu,MYTGG
+Tanjung Pelepas,Tanjung Pelepas,Malaysia,"[103.55, 1.37]",Johor,MYTPP
+"Tawau, Sabah","Tawau, Sabah",Malaysia,"[117.8911861, 4.244651]",Sabah,MYTWU
+Westport/Port Klang,Westport/Port Klang,Malaysia,"[101.3, 2.95]",Selangor,MYWSP
+Beira,Beira,Mozambique,"[34.8844867, -19.7963816]",Sofala,MZBEW
+Nacala,Nacala,Mozambique,"[40.6854309, -14.5656065]",Nampula,MZMNC
+Maputo,Maputo,Mozambique,"[32.6051351, -25.891968]",Maputo City,MZMPM
+Pemba,Pemba,Mozambique,"[40.5178014, -12.9732026]",Cabo Delgado,MZPOL
+Quelimane,Quelimane,Mozambique,"[36.9218584, -17.8502636]",Zambezia Province,MZUEL
+Luderitz,Lüderitz,Namibia,"[15.17, -26.65]",Karas,NALUD
+Walvis Bay,Walvis Bay,Namibia,"[14.5247463, -22.9389587]",Erongo,NAWVB
+Noumea,Nouméa,New Caledonia,"[166.45, -22.27]",South Province,NCNOU
+Apapa,Apapa,Nigeria,"[3.3640841, 6.45528]",Lagos,NGAPP
+Calabar,Calabar,Nigeria,"[8.3417006, 4.9757165]",Cross River,NGCBQ
+Lagos,Lagos,Nigeria,"[3.3792057, 6.5243793]",Lagos,NGLOS
+Onne,Onne,Nigeria,"[7.15, 4.72]",Rivers,NGONN
+Port Harcourt,Port Harcourt,Nigeria,"[7.0498442, 4.815554]",Rivers,NGPHC
+Tincan/Lagos,Tincan/Lagos,Nigeria,"[3.3429075, 6.4334794]",Lagos,NGTIN
+Warri,Warri,Nigeria,"[5.7932008, 5.5543995]",Delta,NGWAR
+Corinto,Corinto,Nicaragua,"[-87.1784334, 12.4907414]",Chinandega,NICIO
+Managua,Managua,Nicaragua,"[-86.2361744, 12.1149926]",Managua,NIMGA
+Alkmaar,Alkmaar,Netherlands,"[4.753375399999999, 52.6323813]",Noord-Holland,NLALK
+Amsterdam,Amsterdam,Netherlands,"[4.895167900000001, 52.3702157]",North Holland,NLAMS
+Bergen op Zoom,Bergen op Zoom,Netherlands,"[4.3, 51.5]",North Brabant,NLBZM
+Dordrecht,Dordrecht,Netherlands,"[4.6900929, 51.81329789999999]",Zuid-Holland,NLDOR
+Eemshaven,Eemshaven,Netherlands,"[6.8354937, 53.4385887]",Groningen,NLEEM
+Groningen,Groningen,Netherlands,"[6.566501799999999, 53.2193835]",Groningen,NLGRQ
+Hoek van Holland,Hoek van Holland,Netherlands,"[4.1341847, 51.9806322]",South Holland,NLHVH
+IJmuiden/Velsen,IJmuiden/Velsen,Netherlands,"[4.6, 52.47]",North Holland,NLIJM
+Moerdijk,Moerdijk,Netherlands,"[4.6273499, 51.70181669999999]",Noord-Brabant,NLMOE
+Rotterdam,Rotterdam,Netherlands,"[4.5, 51.92]",Zuid-Holland,NLRTM
+Terneuzen,Terneuzen,Netherlands,"[3.8324265, 51.3322854]",Zeeland,NLTNZ
+Velsen,Velsen,Netherlands,"[4.630587, 52.4520591]",North Holland,NLVEL
+Vlaardingen,Vlaardingen,Netherlands,"[4.3494366, 51.9120668]",Zuid-Holland,NLVLA
+Vlissingen,Vlissingen,Netherlands,"[3.5709125, 51.4536672]",Zeeland,NLVLI
+Zaandam,Zaandam,Netherlands,"[4.8291992, 52.4420399]",North Holland,NLZAA
+Zeewolde,Zeewolde,Netherlands,"[5.55, 52.35]",Flevoland,NLZEW
+Alvik,Ålvik,Norway,"[6.42, 60.42]",Hordaland,NOAAV
+Alesund,Ålesund,Norway,"[6.15, 62.47]",Møre og Romsdal,NOAES
+Agotnes,Ågotnes,Norway,"[5.02, 60.4]",Hordaland,NOAGO
+Andalsnes,Åndalsnes,Norway,"[7.7, 62.57]",Møre og Romsdal,NOAND
+Austevoll,Austevoll,Norway,"[5.15, 60.1]",Hordaland,NOASV
+Bergen,Bergen,Norway,"[5.32, 60.38]",Hordaland,NOBGO
+Bodo,Bodø,Norway,"[14.37, 67.28]",Nordland,NOBOO
+Brevik,Brevik,Norway,"[9.7, 59.05]",Telemark,NOBVK
+Drammen,Drammen,Norway,"[10.23, 59.73]",Buskerud,NODRM
+Eigersund,Eigersund,Norway,"[5.899172099999999, 58.3730054]",Rogaland,NOEGD
+Frekhaug,Frekhaug,Norway,"[5.2397138, 60.51194100000001]",Hordaland,NOFKG
+Fredrikstad,Fredrikstad,Norway,"[10.92, 59.2]",Østfold,NOFRK
+Floro,Florø,Norway,"[5.02, 61.6]",Sogn og Fjordane,NOFRO
+Fusa,Fusa,Norway,"[5.62, 60.2]",Hordaland,NOFUS
+Gjemnes,Gjemnes,Norway,"[7.7628928, 62.95102639999999]",Møre og Romsdal,NOGJM
+Halden,Halden,Norway,"[11.37, 59.1]",Østfold,NOHAL
+Haugesund,Haugesund,Norway,"[5.25, 59.4]",Rogaland,NOHAU
+Hestvika,Hestvika,Norway,"[9.193158, 63.56376799999999]",Sør-Trøndelag,NOHES
+Holla,Holla,Norway,"[9.18, 59.6]",Telemark,NOHLA
+Hogset,Høgset,Norway,"[15.02, 67.13]",Nordland,NOHOG
+Husoy - Tonsberg,Husøy - Tønsberg,Norway,"[10.45, 59.23]",Vestfold,NOHOY
+Hareid,Hareid,Norway,"[6.03, 62.37]",Møre og Romsdal,NOHRI
+Heroya,Herøya,Norway,"[9.62, 59.12]",Telemark,NOHRY
+Husnes,Husnes,Norway,"[5.77, 59.87]",Hordaland,NOHUS
+Havik,Håvik,Norway,"[5.32, 59.3]",Nordland,NOHVI
+Ikornnes,Ikornnes,Norway,"[6.55, 62.38]",Møre og Romsdal,NOIKR
+Karmoy,Karmøy,Norway,"[5.263402, 59.276775]",Rogaland,NOKMY
+Kristiansand,Kristiansand,Norway,"[7.98, 58.13]",Vest-Agder,NOKRS
+Knarrevik,Knarrevik,Norway,"[5.15, 60.37]",Hordaland,NOKRV
+Kristiansund,Kristiansund,Norway,"[7.73, 63.1]",Møre og Romsdal,NOKSU
+Larvik,Larvik,Norway,"[10.02, 59.03]",Vestfold,NOLAR
+Lyngdal,Lyngdal,Norway,"[7.070436099999999, 58.1378983]",Vest-Agder,NOLND
+Maloy,Måløy,Norway,"[5.1, 61.93]",Sogn og Fjordane,NOMAY
+Molde,Molde,Norway,"[7.15, 62.73]",Møre og Romsdal,NOMOL
+Mongstad,Mongstad,Norway,"[5.02, 60.82]",Hordaland,NOMON
+Mo i Rana,Mo i Rana,Norway,"[14.13, 66.32]",Nordland,NOMQN
+Moss,Moss,Norway,"[10.65, 59.42]",Østfold,NOMSS
+Odda,Odda,Norway,"[6.53, 60.07]",Hordaland,NOODD
+Orkanger,Orkanger,Norway,"[9.83, 63.32]",Sør-Trøndelag,NOORK
+Oslo,Oslo,Norway,"[10.73, 59.9]",Oslo,NOOSL
+Porsgrunn,Porsgrunn,Norway,"[9.63, 59.13]",Telemark,NOPOR
+Sandefjord,Sandefjord,Norway,"[10.22, 59.12]",Vestfold,NOSAD
+Sauda,Sauda,Norway,"[6.35, 59.63]",Rogaland,NOSAU
+Skien,Skien,Norway,"[9.6, 59.2]",Telemark,NOSKE
+Skogn,Skogn,Norway,"[11.15, 63.7]",Nord-Trøndelag,NOSKX
+Sortland,Sortland,Norway,"[15.42, 68.7]",Nordland,NOSLX
+Sarpsborg,Sarpsborg,Norway,"[11.1, 59.27]",Østfold,NOSPG
+Stord,Stord,Norway,"[5.48, 59.75]",Hordaland,NOSRP
+Straumen,Straumen,Norway,"[15.6, 67.35]",Nord-Trondelag,NOSTM
+Sunndalsora,Sunndalsøra,Norway,"[8.55, 62.67]",Møre og Romsdal,NOSUN
+Svelgen,Svelgen,Norway,"[5.28, 61.77]",Sogn og Fjordane,NOSVE
+Stavanger,Stavanger,Norway,"[5.75, 58.97]",Rogaland,NOSVG
+Tananger,Tananger,Norway,"[5.58, 58.92]",Rogaland,NOTAE
+Tonsberg,Tønsberg,Norway,"[10.42, 59.25]",Vestfold,NOTON
+Tromso,Tromsø,Norway,"[18.97, 69.67]",Troms,NOTOS
+Trondheim,Trondheim,Norway,"[10.4, 63.43]",Sør-Trøndelag,NOTRD
+Auckland,Auckland,New Zealand,"[174.8, -36.83]",Auckland,NZAKL
+Bluff,Bluff,New Zealand,"[168.32, -46.6]",Southland,NZBLU
+Christchurch,Christchurch,New Zealand,"[172.63, -43.53]",Canterbury,NZCHC
+Dunedin,Dunedin,New Zealand,"[170.5, -45.87]",Otago,NZDUD
+Hamilton,Hamilton,New Zealand,"[175.28, -37.78]",Waikato,NZHLZ
+Lyttelton,Lyttelton,New Zealand,"[172.72, -43.6]",Canterbury,NZLYT
+Middleton/Christchurch,Middleton/Christchurch,New Zealand,"[172.5909435, -43.5442039]",Canterbury,NZMNR
+Napier,Napier,New Zealand,"[176.9, -39.47]",Hawkes's Bay,NZNPE
+New Plymouth,New Plymouth,New Zealand,"[174.02, -39.05]",Taranaki,NZNPL
+Nelson,Nelson,New Zealand,"[173.27, -41.25]",Nelson City,NZNSN
+Palmerston North,Palmerston North,New Zealand,"[175.6082145, -40.3523065]",Manawatu-Wanganui,NZPMR
+Port Chalmers,Port Chalmers,New Zealand,"[170.6, -45.82]",Otago,NZPOE
+Timaru,Timaru,New Zealand,"[171.25, -44.38]",Canterbury,NZTIU
+Temuka,Temuka,New Zealand,"[171.27, -44.25]",Canterbury,NZTKA
+Tauranga,Tauranga,New Zealand,"[176.17, -37.68]",Bay of Plenty,NZTRG
+Wanganui,Wanganui,New Zealand,"[174.98, -39.93]",Manawatu-Wanganui,NZWAG
+Wellington,Wellington,New Zealand,"[174.78, -41.27]",Wellington,NZWLG
+Whangarei,Whangarei,New Zealand,"[174.48, -35.83]",Northland,NZWRE
+Muscat,Muscat,Oman,"[58.4059227, 23.58589]",Muscat Governorate,OMMCT
+Mina' Qabus,Mina' Qabus,Oman,"[58.57, 23.62]",Masqat,OMMNQ
+Port Qaboos,Port Qaboos,Oman,"[58.5615244, 23.6275477]",Muscat Governorate,OMOPQ
+Salalah,Salalah,Oman,"[54.1065864, 17.0506675]",Dhofar Governorate,OMSLL
+Sohar,Sohar,Oman,"[56.7075141, 24.3460959]",Al Batinah North Governorate,OMSOH
+Puerto Armuelles,Puerto Armuelles,Panama,"[-82.92864279999999, 8.3117647]",Chiriqui,PAAML
+Balboa,Balboa,Panama,"[-79.5631537, 8.9613962]",Panama,PABLB
+Colon Free Zone,Colón Free Zone,Panama,"[-79.9, 9.35]",Colón,PACFZ
+Coco Solo,Coco Solo,Panama,"[-79.879913, 9.368985]",Colon,PACSO
+Cristobal,Cristóbal,Panama,"[-79.9, 9.35]",Colon,PACTB
+Chitre,Chitre,Panama,"[-80.4382153, 7.9523119]",Herrera,PACTD
+Canazas,Cañazas,Panama,"[-80.7, 8.13]",Veraguas,PACZZ
+Manzanillo,Manzanillo,Panama,"[-81.16666699999999, 7.533332999999999]",Veraguas,PAMIT
+Colon,Colón,Panama,"[-79.87, 9.35]",Colón,PAONX
+Rodman,Rousseau,Panama,"[-79.58843689999999, 8.9593892]",Panama,PAPSA
+"Panama, Ciudad de","Panamá, Ciudad de",Panama,"[-79.53, 8.97]",Panamá,PAPTY
+Atico,Atico,Peru,"[-73.60964969999999, -16.2283321]",Arequipa,PEATI
+Chimbote,Chimbote,Peru,"[-78.589011, -9.063336399999999]",Ancash,PECHM
+Callao,Callao,Peru,"[-77.1259843, -12.0508491]",Lima,PECLL
+General San Martin,General San Martin,Peru,"[-76.9242537, -12.1975909]",Lima,PEGSM
+Huacho,Huacho,Peru,"[-77.61056789999999, -11.1227218]",Lima,PEHCO
+Ilo,Ilo,Peru,"[-71.3468091, -17.6680839]",Moquegua,PEILQ
+Iquitos,Iquitos,Peru,"[-73.25163260000001, -3.7436735]",Loreto,PEIQT
+Lobitos,Lobitos,Peru,"[-81.2821647, -4.4564351]",Piura,PELOB
+Matarani,Matarani,Peru,"[-72.1001434, -17.0054057]",Arequipa,PEMRI
+Pacasmayo,Pacasmayo,Peru,"[-79.565078, -7.4040051]",La Libertad,PEPAC
+Paita,Paita,Peru,"[-81.0962172, -5.0938488]",Piura,PEPAI
+Puerto Chicama,Puerto Chicama,Peru,"[-79.1407421, -7.847994799999999]",La Libertad,PEPCH
+Pisco,Pisco,Peru,"[-76.1841701, -13.7134562]",Ica,PEPIO
+San Nicolas,San Nicolas,Peru,"[-77.5053269, -6.3867084]",Amazonas,PESNX
+Supe,Supe,Peru,"[-77.71373059999999, -10.7987521]",Lima,PESUP
+Salaverry,Salaverry,Peru,"[-78.97689989999999, -8.2141205]",La Libertad,PESVY
+Talara,Talara,Peru,"[-81.26289609999999, -4.581151999999999]",Piura,PETYL
+Papeete,Papeete,French Polynesia,"[-149.5584758, -17.5516251]",Windward Islands,PFPPT
+Lae,Lae,Papua New Guinea,"[146.999905, -6.7155252]",Morobe Province,PGLAE
+Madang,Madang,Papua New Guinea,"[145.7856324, -5.2218841]",Madang Province,PGMAG
+Port Moresby,Port Moresby,Papua New Guinea,"[147.1802671, -9.443800399999999]",National Capital District,PGPOM
+Rabaul,Rabaul,Papua New Guinea,"[152.1644612, -4.1999648]",East New Britain Province,PGRAB
+Cebu,Cebu,Philippines,"[123.8854366, 10.3156992]",Central Visayas,PHCEB
+"Cagayan de Oro, Mindanao","Cagayan de Oro, Mindanao",Philippines,"[124.6318977, 8.4542363]",Northern Mindanao,PHCGY
+"Davao, Mindanao","Davao, Mindanao",Philippines,"[125.455341, 7.190708]",Davao Region,PHDVO
+General Santos,General Santos,Philippines,"[125.15, 6.12]",Region XII,PHGES
+"Iligan, Mindanao","Iligan, Mindanao",Philippines,"[124.2452422, 8.228020899999999]",Northern Mindanao,PHIGN
+Isabela (Basilan),Isabela (Basilan),Philippines,"[121.969, 6.7029445]",Zamboanga Peninsula,PHISB
+Magellanes/Masao,Magellanes/Masao,Philippines,"[121.774017, 12.879721]",,PHMLS
+Manicani,Manicani,Philippines,"[125.6368861, 10.9955232]",Eastern Samar,PHMNI
+Manila,Manila,Philippines,"[120.9842195, 14.5995124]",Metro Manila,PHMNL
+Manila North Harbour,Manila North Harbour,Philippines,"[120.9566667, 14.6161111]",,PHMNN
+Manila South Harbour,Manila South Harbour,Philippines,"[120.9691667, 14.5758333]",,PHMNS
+"Ozamis, Mindanao","Ozamis, Mindanao",Philippines,"[123.7741195, 8.162410999999999]",Northern Mindanao,PHOZC
+"Pasaleng, Luzon","Pasaleng, Luzon",Philippines,"[120.7115592, 18.1647281]",Ilocos Norte,PHPSL
+Subic Bay,Subic Bay,Philippines,"[120.2397336, 14.7910576]",,PHSFS
+Zamboanga,Zamboanga,Philippines,"[122.0790267, 6.9214424]",Zamboanga Peninsula,PHZAM
+Karachi-muhammad Bin Qasim,Karachi-muhammad Bin Qasim,Pakistan,"[67.0152682, 24.8550065]",Sindh,PKBQM
+Karachi,Karachi,Pakistan,"[67.0099388, 24.8614622]",Sindh,PKKHI
+Gdansk,Gdansk,Poland,"[18.6466384, 54.35202520000001]",Pomeranian Voivodeship,PLGDN
+Gdynia,Gdynia,Poland,"[18.55, 54.5]",Pomorskie,PLGDY
+Swinoujscie,Swinoujscie,Poland,"[14.25, 53.9]",West Pomeranian Voivodeship,PLSWI
+Szczecin,Szczecin,Poland,"[14.5528116, 53.4285438]",West Pomeranian Voivodeship,PLSZZ
+Aguadilla,Aguadilla,Puerto Rico,"[-67.1540698, 18.4274454]",Aguadilla,PRBQN
+Mayaguez,Mayagüez,Puerto Rico,"[-67.1451517, 18.2013463]",Mayagüez,PRMAZ
+Puerto Nuevo,Puerto Nuevo,Puerto Rico,"[-66.08273679999999, 18.4173179]",San Juan,PRPNU
+Ponce,Ponce,Puerto Rico,"[-66.6140616, 18.0110768]",Ponce,PRPSE
+San Juan,San Juan,Puerto Rico,"[-66.08, 18.45]",San Juan,PRSJU
+Angra do Heroismo,Angra do Heroísmo,Portugal,"[-27.22, 38.65]",Região Autónoma dos Açores,PTADH
+Canical,Caniçal,Portugal,"[-16.73, 32.73]",Região Autónoma da Madeira,PTCNL
+Entroncamento,Entroncamento,Portugal,"[-8.47, 39.47]",Santarém,PTENT
+Figueira da Foz,Figueira da Foz,Portugal,"[-8.87, 40.15]",Coimbra,PTFDF
+"Funchal, Madeira","Funchal, Madeira",Portugal,"[-16.9, 32.63]",Região Autónoma da Madeira,PTFNC
+Horta,Horta,Portugal,"[-28.63, 38.53]",Região Autónoma dos Açores,PTHOR
+Leixoes,Leixões,Portugal,"[-8.68, 41.18]",Porto,PTLEI
+Lisboa,Lisboa,Portugal,"[-9.13, 38.72]",Lisboa,PTLIS
+Porto,Porto,Portugal,"[-8.62, 41.15]",Porto,PTOPO
+Ponta Delgada,Ponta Delgada,Portugal,"[-25.67, 37.73]",Região Autónoma dos Açores,PTPDL
+Praia da Vitoria,Praia da Vitória,Portugal,"[-27.07, 38.73]",Região Autónoma dos Açores,PTPRV
+Setubal,Setúbal,Portugal,"[-8.9, 38.53]",Setúbal,PTSET
+Sines,Sines,Portugal,"[-8.87, 37.95]",Setúbal,PTSIE
+Terceira Island Apt,Terceira Island Apt,Portugal,"[-27.22, 38.72]",Região Autónoma dos Açores,PTTER
+Viana do Castelo,Viana do Castelo,Portugal,"[-8.83, 41.7]",Viana do Castelo,PTVDC
+Asuncion,Asunción,Paraguay,"[-57.67, -25.27]",Asunción,PYASU
+Barrio Caacupe Mi,Barrio Caacupé Mí,Paraguay,"[-57.55, -25.22]",Central,PYBCM
+Fenix,Fenix,Paraguay,"[-57.57592599999999, -25.2637399]",Asunción,PYFNX
+Pilar,Pilar,Paraguay,"[-58.2918546, -26.8634263]",Neembucu,PYPIL
+Pto Seguro/col Mariano Roque Alonso,Pto Seguro/col Mariano Roque Alonso,Paraguay,"[-57.55, -25.166667]",Presidente Hayes,PYPSE
+San Antonio,San Antonio,Paraguay,"[-57.54761449999999, -25.4200064]",Central,PYSAN
+Terport (San Antonio),Terport (San Antonio),Paraguay,"[-57.63, -25.38]",Central,PYTER
+Doha,Doha,Qatar,"[51.4939853, 25.3521436]",Ad Dawhah,QADOH
+Mesaieed,Mesaieed,Qatar,"[51.92, 25.63]",Al Wakrah,QAMES
+Umm Sa'id (Mesaieed),Umm Sa'id (Mesaieed),Qatar,"[51.53, 24.98]",Al Wakrah,QAUMS
+Le Port,Le,Réunion,"[55.3, -20.92]",,RELPT
+Port de Pointe des Galets,Port de Pointe des Galets,Réunion,"[-20.9239169, 55.2856063]",,REPDG
+Reunion,Réunion,Réunion,"[55.53, -20.88]",,REREU
+Saint-Denis de la Reunion Apt,Saint-Denis de la Réunion Apt,Réunion,"[55.53, -20.88]",Île-de-France,RERUN
+Agigea,Agigea,Romania,"[28.62, 44.08]",Constarta,ROAGI
+Braila,Braila,Romania,"[27.98, 45.27]",Braila,ROBRA
+Constanta,Constanta,Romania,"[28.65, 44.18]",Constarta,ROCND
+Galati,Galati,Romania,"[28.05, 45.43]",Galati,ROGAL
+Mangalia,Mangalia,Romania,"[28.5741496, 43.8152436]",Constarţa,ROMAG
+Arkhangelsk,Arkhangelsk,Russian Federation,"[40.5601553, 64.54725069999999]",Arkhangelsk Oblast,RUARH
+Magadan,Magadan,Russian Federation,"[150.8301413, 59.5611525]",Magadan Oblast,RUGDX
+Kaliningrad,Kaliningrad,Russian Federation,"[20.4522144, 54.7104264]",Kaliningrad Oblast,RUKGD
+Kholmsk,Kholmsk,Russian Federation,"[142.05, 47.05]",Sakhalinskaya oblast',RUKHO
+Korsakov,Korsakov,Russian Federation,"[142.7841876, 46.6353796]",Sakhalin Oblast,RUKOR
+Krasnodar,Krasnodar,Russian Federation,"[38.987221, 45.03926740000001]",Krasnodar Krai,RUKRR
+Saint Petersburg (ex Leningrad),Saint Petersburg (ex Leningrad),Russian Federation,"[30.25, 59.88]",Sankt-Peterburg,RULED
+Murmansk,Murmansk,Russian Federation,"[33.0826598, 68.9585244]",Murmansk Oblast,RUMMK
+Nakhodka,Nakhodka,Russian Federation,"[132.8834039, 42.8222753]",Primorsky Krai,RUNJK
+Novorossiysk,Novorossiysk,Russian Federation,"[37.77, 44.72]",Krasnodarskiy kray,RUNVS
+Potapova,Potapova,Russian Federation,"[103.948625, 56.13214199999999]",Irkutskaya oblast',RUPTP
+Rostov,Rostov,Russian Federation,"[39.701505, 47.2357137]",Rostov Oblast,RUROV
+Taganrog,Taganrog,Russian Federation,"[38.8676013, 47.2416334]",Rostov Oblast,RUTAG
+Vladivostok,Vladivostok,Russian Federation,"[132.0064506, 43.1737387]",Primorsky Krai,RUVVO
+Vyborg,Vyborg,Russian Federation,"[28.75715709999999, 60.7139529]",Leningrad Oblast,RUVYG
+Vostochnyy Port,Vostochnyy,Russian Federation,"[133.05, 42.77]",Moscow,RUVYP
+Kigali,Kigali,Rwanda,"[30.112735, -1.9578755]",Kigali,RWKGL
+Ad Dammam,Ad Dammam,Saudi Arabia,"[50.1, 26.42]",Ash Sharqiyah,SADMM
+Dammam,Dammam,Saudi Arabia,"[49.9777136, 26.3926665]",Eastern Province,SADMN
+Jeddah,Jeddah,Saudi Arabia,"[39.2375507, 21.2854067]",Makkah Province,SAJED
+Jubail,Jubail,Saudi Arabia,"[49.5687416, 26.9597709]",Eastern Province,SAJUB
+King Abdullah City,King Abdullah City,Saudi Arabia,"[39.08, 22.4]",Makkah al Mukarramah,SAKAC
+Riyadh,Riyadh,Saudi Arabia,"[46.9028375, 24.7494029]",Riyadh Province,SARUH
+"Honiara, Guadalcanal Is","Honiara, Guadalcanal Is",Solomon Islands,"[159.9728999, -9.4456381]",Capital Territory,SBHIR
+"Noro, New Georgia",Noro,Solomon Islands,"[157.199876, -8.2409868]",New Georgia,SBNOR
+Mahe,Mahe,Seychelles,"[55.480396, -4.6826693]",,SCMAW
+Port Victoria,Port Victoria,Seychelles,"[55.4833333, -4.6166667]",,SCPOV
+Port Sudan,Port Sudan,Sudan,"[37.1901616, 19.5903471]",Al Bahr al Ahmar,SDPZU
+Ahus,Åhus,Sweden,"[14.2979949, 55.9250391]",Skåne län,SEAHU
+Falkenberg,Falkenberg,Sweden,"[12.4888013, 56.90273329999999]",Hallands län,SEFAG
+Goteborg,Göteborg,Sweden,"[11.97, 57.72]",Västra Götalands län,SEGOT
+Gavle,Gävle,Sweden,"[17.1412726, 60.6748796]",Gävleborgs län,SEGVX
+Halmstad,Halmstad,Sweden,"[12.8577884, 56.6743748]",Hallands län,SEHAD
+Helsingborg,Helsingborg,Sweden,"[12.6945121, 56.0464674]",Skåne län,SEHEL
+Karlshamn,Karlshamn,Sweden,"[14.863073, 56.170303]",Blekinge län,SEKAN
+Karlstad,Karlstad,Sweden,"[13.5114977, 59.4021806]",Värmlands län,SEKSD
+Landskrona,Landskrona,Sweden,"[12.8300802, 55.8703477]",Skåne län,SELAA
+Malmo,Malmö,Sweden,"[13, 55.6]",Skåne län,SEMMA
+Norrkoping,Norrköping,Sweden,"[16.192421, 58.587745]",Östergötlands län,SENRK
+Oskarshamn,Oskarshamn,Sweden,"[16.4473984, 57.26569929999999]",Kalmar län,SEOSK
+Oxelosund,Oxelösund,Sweden,"[17.1037333, 58.6701741]",Södermanlands län,SEOXE
+Sundsvall,Sundsvall,Sweden,"[17.3, 62.38]",Västernorrlands län,SESDL
+Skelleftea,Skellefteå,Sweden,"[20.950917, 64.750244]",Västerbottens län,SESFT
+Skelleftehamn,Skelleftehamn,Sweden,"[21.2361263, 64.6861026]",Västerbottens län,SESKE
+Sodertalje,Södertälje,Sweden,"[17.62, 59.2]",Stockholms län,SESOE
+Stockholm,Stockholm,Sweden,"[18.0685808, 59.32932349999999]",Stockholms län,SESTO
+Trelleborg,Trelleborg,Sweden,"[13.1574231, 55.3762427]",Skåne län,SETRG
+Uddevalla,Uddevalla,Sweden,"[11.935649, 58.3498003]",Västra Götalands län,SEUDD
+Umea,Umeå,Sweden,"[20.25, 63.83]",Västerbottens län,SEUME
+Vasteras,Västerås,Sweden,"[16.5448091, 59.60990049999999]",Västmanlands län,SEVST
+Jurong/Singapore,Jurong/Singapore,Singapore,"[103.7, 1.33]",,SGJUR
+Singapore,Singapore,Singapore,"[103.8509491, 1.2800945]",,SGSIN
+Koper,Koper,Slovenia,"[13.7301877, 45.54805899999999]",Koper,SIKOP
+Bratislava,Bratislava,Slovakia,"[17.12, 48.15]",Bratislavský kraj,SKBTS
+Freetown,Freetown,Sierra Leone,"[-13.2317225, 8.4656765]",Western Area,SLFNA
+Dakar,Dakar,Senegal,"[-17.3660286, 14.7645042]",Dakar,SNDKR
+Berbera,Berbera,Somalia,"[45.0139904, 10.4347941]",Woqooyi Galbeed,SOBBO
+Kismayu,Kismayu,Somalia,"[42.5460573, -0.3560455]",Jubbada Hoose,SOKMU
+Mogadishu,Mogadishu,Somalia,"[45.3181623, 2.0469343]",Banaadir,SOMGQ
+Paramaribo,Paramaribo,Suriname,"[-55.2038278, 5.8520355]",Paramaribo District,SRPBM
+Sao Tome Island,Sao Tome Island,Sao Tome and Principe,"[6.621061099999999, 0.2602568]",,STTMS
+Acajutla,Acajutla,El Salvador,"[-89.82708939999999, 13.5957]",Sonsonate,SVAQJ
+La Libertad,La Libertad,El Salvador,"[-89.32, 13.48]",La Libertad,SVLLD
+La Union,La Union,El Salvador,"[-87.8500644, 13.3323464]",La Union,SVLUN
+San Salvador,San Salvador,El Salvador,"[-89.2181911, 13.6929403]",San Salvador,SVSAL
+Damascus (Damas),Damascus (Damas),Syrian Arab Republic,"[36.2765279, 33.5138073]",Damascus Governorate,SYDAM
+Latakia,Latakia,Syrian Arab Republic,"[35.78, 35.52]",Latakia Governorate,SYLTK
+Tartus,Tartus,Syrian Arab Republic,"[35.9, 34.9]",Tartus,SYTTS
+Providenciales,Providenciales,Turks and Caicos Islands,"[-72.271908, 21.7737654]",Caicos Islands,TCPLS
+Lome,Lome,Togo,"[1.2313618, 6.1724969]",Maritime,TGLFW
+Bangpakong,Bangpakong,Thailand,"[100.6541717, 13.7255165]",Krung Thep Maha Nakhon,THBGP
+Bangkok,Bangkok,Thailand,"[100.52, 13.75]",Krung Thep Maha Nakhon [Bangkok],THBKK
+Bangkok Modern Terminals/Bangkok,Bangkok Modern Terminals/Bangkok,Thailand,"[100.58, 13.6]",,THBMT
+Koh Sichang,Koh Sichang,Thailand,"[100.8084675, 13.1499153]",,THKSI
+Khlong Toei,Khlong Toei,Thailand,"[100.57, 13.72]",Krung Thep Maha Nakhon [Bangkok],THKTY
+Laem Chabang,Laem Chabang,Thailand,"[100.88, 13.08]",Chon Buri,THLCH
+Lat Krabang,Lat Krabang,Thailand,,Bangkok,THLKR
+Mab Tapud,Mab Tapud,Thailand,"[100.5313648, 13.6935027]",จังหวัด กรุงเทพมหานคร,THMAT
+Pat Bangkok,Pat Bangkok,Thailand,"[100.57, 13.7]",Pathum Thani,THPAT
+Paknam,Paknam,Thailand,"[103.1675053, 15.9050383]",Maha Sarakham,THPKN
+Siam Bangkok Port,Siam Bangkok,Thailand,"[100.55, 13.65]",,THSBP
+Songkhla,Songkhla,Thailand,"[100.6, 7.2]",Songkhla,THSGZ
+Samut Prakarn,Samut Prakarn,Thailand,"[100.5998319, 13.5990961]",Samut Prakan,THSPR
+Sriracha,Sriracha,Thailand,"[100.8750802, 13.1336611]",,THSRI
+Thai prosperity terminal,Thai prosperity terminal,Thailand,,,THTPT
+Gabes,Gabès,Tunisia,"[10.12, 33.88]",Gabes,TNGAE
+Jarjis,Jarjis,Tunisia,"[-11.1, 33.5]",,TNJAR
+La Goulette Nord (Halqueloued),La Goulette Nord (Halqueloued),Tunisia,"[10.3020843, 36.8200203]",Tunis,TNLGN
+Rades,Radès,Tunisia,"[10.27, 36.77]",Tunis,TNRDS
+Sfax,Sfax,Tunisia,"[10.766163, 34.7478469]",Sfax,TNSFA
+Sousse,Sousse,Tunisia,"[10.608395, 35.825603]",Sousse,TNSUS
+Tunis,Tunis,Tunisia,"[10.1815316, 36.8064948]",Tunis,TNTUN
+Nuku'alofa,Nuku'alofa,Tonga,"[-175.2, -21.13]",Tongatapu,TOTBU
+Aliaga,Aliaga,Turkey,"[26.97074, 38.799561]",Izmir,TRALI
+Ambarli,Ambarli,Turkey,"[41.68, 41.32]",Artvin,TRAMB
+Avcilar,Avcilar,Turkey,"[28.7, 40.97]",Istanbul,TRAVC
+Antalya,Antalya,Turkey,"[30.7133233, 36.8968908]",Antalya,TRAYT
+Bayrampasa,Bayrampasa,Turkey,"[28.90045529999999, 41.0481503]",Istanbul,TRBAY
+Bandirma,Bandirma,Turkey,"[27.97, 40.35]",Balikesir,TRBDM
+Evyap Port /Kocaeli,Evyap Port /Kocaeli,Turkey,"[29.7, 40.77]",Kocaeli,TREYP
+Gebze,Gebze,Turkey,"[29.42, 40.78]",Kocaeli,TRGEB
+Gemlik,Gemlik,Turkey,"[29.155416, 40.43181999999999]",Bursa,TRGEM
+Haydarpasa,Haydarpasa,Turkey,"[29.011395, 41.0046297]",Istanbul,TRHAY
+Hereke,Hereke,Turkey,"[29.626024, 40.793768]",Kocaeli,TRHER
+Iskenderun,Iskenderun,Turkey,"[36.1756161, 36.584673]",Hatay,TRISK
+Istanbul,Istanbul,Turkey,"[28.9783589, 41.0082376]",Istanbul,TRIST
+Izmir,Izmir,Turkey,"[27.15, 38.42]",Izmir,TRIZM
+Izmit,Izmit,Turkey,"[29.95, 40.78]",Kocaeli,TRIZT
+Kumport,Kumport,Turkey,"[28.82, 40.95]",Istanbul,TRKMX
+Mardas,Mardas,Turkey,"[28.95, 41.02]",Istanbul,TRMAD
+Marmara Ereglisi,Marmara Ereglisi,Turkey,"[27.9014654, 41.041446]",Tekirdag,TRMAR
+Mersin,Mersin,Turkey,"[34.63, 36.72]",Mersin,TRMER
+Nemrut Bay,Nemrut Bay,Turkey,"[27.142826, 38.423734]",Izmir,TRNEM
+Samsun,Samsun,Turkey,"[36.3360667, 41.2797031]",Samsun,TRSSX
+Tekirdag,Tekirdag,Turkey,"[27.511674, 40.9780919]",Tekirdag,TRTEK
+Trabzon,Trabzon,Turkey,"[39.7167633, 41.0026969]",Trabzon,TRTZX
+Yarimca,Yarimca,Turkey,"[29.727171, 40.771592]",Kocaeli,TRYAR
+Port-of-Spain,Port-of-Spain,Trinidad and Tobago,"[-61.52, 10.65]",Port of Spain,TTPOS
+Pointe a Pierre,Pointe a Pierre,Trinidad and Tobago,"[-61.45959930000001, 10.3155401]",Couva-Tabaquite-Talparo,TTPTP
+Point Lisas,Point Lisas,Trinidad and Tobago,"[-61.4630653, 10.4056994]",Couva-Tabaquite-Talparo,TTPTS
+San Fernando,San Fernando,Trinidad and Tobago,"[-61.4493842, 10.2905853]",San Fernando,TTSFE
+Keelung (Chilung),Keelung (Chilung),Taiwan,"[121.75, 25.1333333]",,TWKEL
+Kaohsiung,Kaohsiung,Taiwan,"[120.3014353, 22.6272784]",Kaohsiung City,TWKHH
+Mai-liao,Mai-liao,Taiwan,"[120.13, 23.1]",,TWMLI
+Suao,Suao,Taiwan,"[121.8533264, 24.594229]",,TWSUO
+Taipei,Taipei,Taiwan,,Taiwan,TWTPE
+Taichung,Taichung,Taiwan,"[120.6736482, 24.1477358]",Taichung City,TWTXG
+Taoyuan,Taoyuan,Taiwan,"[121.3009798, 24.9936281]",Taoyuan City,TWTYN
+Dar es Salaam,Dar es Salaam,"Tanzania, United Republic of","[39.28, -6.8]",Dar es Salaam,TZDAR
+Tanga,Tanga,"Tanzania, United Republic of","[39.1023228, -5.0888751]",Tanga,TZTGT
+Zanzibar,Zanzibar,"Tanzania, United Republic of","[39.202641, -6.165916999999999]",Mjini Magharibi,TZZNZ
+Kiev,Kiev,Ukraine,"[30.5234, 50.4501]",Kyiv city,UAIEV
+Illichivs'k,Illichivs'k,Ukraine,"[30.67, 46.3]",Odeska oblast,UAILK
+Kherson,Kherson,Ukraine,"[32.616867, 46.635417]",Khersons'ka oblast,UAKHE
+Mariupol (ex Zhdanov),Mariupol (ex Zhdanov),Ukraine,"[37.55, 47.1]",Donetska oblast,UAMPW
+Odessa,Odessa,Ukraine,"[30.7233095, 46.482526]",Odessa Oblast,UAODS
+Sevastopol,Sevastopol,Ukraine,"[33.53, 44.6]",Sevastopol,UASVP
+Jinja,Jinja,Uganda,"[33.2026122, 0.4478565999999999]",Eastern Region,UGJIN
+Kampala,Kampala,Uganda,"[32.5825197, 0.3475964]",Central Region,UGKLA
+Kodiak,Kodiak,United States,"[-152.4072222, 57.79000000000001]",Alaska,USADQ
+Anchorage,Anchorage,United States,"[-149.9002778, 61.2180556]",Alaska,USANC
+Annapolis,Annapolis,United States,"[-76.4921829, 38.9784453]",Maryland,USANP
+Damascus,Damascus,United States,"[-92.4096005, 35.367302]",Arkansas,USAR5
+Atlanta,Atlanta,United States,"[-84.3879824, 33.7489954]",Georgia,USATL
+Baltimore,Baltimore,United States,"[-76.62, 39.28]",Maryland,USBAL
+Bear Creek,Bear Creek,United States,"[-149.395, 60.1641667]",Alaska,USBCC
+Birmingham,Birmingham,United States,,Alabama,USBHM
+Nashville,Nashville,United States,"[-86.7816016, 36.1626638]",Tennessee,USBNA
+Boston,Boston,United States,"[-71.0588801, 42.3600825]",Massachusetts,USBOS
+Beaumont,Beaumont,United States,"[-94.1265562, 30.080174]",Texas,USBPT
+Brownsville,Brownsville,United States,"[-97.48, 25.9]",Texas,USBRO
+Buffalo,Buffalo,United States,"[-78.8783689, 42.88644679999999]",New York,USBUF
+Council Bluffs,Council Bluffs,United States,,Iowa,USCBF
+Chattanooga,Chattanooga,United States,"[-85.3, 35.03]",Tennessee,USCHA
+Chicago,Chicago,United States,"[-87.6297982, 41.8781136]",Illinois,USCHI
+Charleston,Charleston,United States,"[-79.93105120000001, 32.7764749]",South Carolina,USCHS
+Cleveland,Cleveland,United States,"[-81.67, 41.5]",Ohio,USCLE
+Port Angeles,Port Angeles,United States,"[-123.4307413, 48.118146]",Washington,USCLM
+Charlotte,Charlotte,United States,"[-80.8431267, 35.2270869]",North Carolina,USCLT
+Columbus,Columbus,United States,"[-82.99879419999999, 39.9611755]",Ohio,USCMH
+Chippewa Falls,Chippewa Falls,United States,,Wisconsin,USCPF
+Cape Canaveral,Cape Canaveral,United States,"[-80.60771319999999, 28.3922182]",Florida,USCPV
+Corpus Christi,Corpus Christi,United States,"[-97.39638099999999, 27.8005828]",Texas,USCRP
+Cincinnati,Cincinnati,United States,"[-84.5120196, 39.1031182]",Ohio,USCVG
+Cape Romanzof,Cape Romanzof,United States,"[-166.0977778, 61.8122222]",Alaska,USCZF
+Dauphin,Dauphin,United States,"[-76.9310859, 40.3673093]",Pennsylvania,USDA8
+Dallas,Dallas,United States,"[-96.79698789999999, 32.7766642]",Texas,USDAL
+Decatur,Decatur,United States,"[-88.9548001, 39.8403147]",Illinois,USDEC
+Denver,Denver,United States,"[-104.990251, 39.7392358]",Colorado,USDEN
+Detroit,Detroit,United States,"[-83.03, 42.32]",Michigan,USDET
+Dalton,Dalton,United States,"[-84.9702228, 34.7698021]",Georgia,USDNN
+Des Moines,Des Moines,United States,"[-93.6091064, 41.6005448]",Iowa,USDSM
+Dutch Harbor,Dutch Harbor,United States,"[-166.5422, 53.88980000000001]",Alaska,USDUT
+El Paso,El Paso,United States,"[-106.48, 31.75]",Texas,USELP
+Kenai,Kenai,United States,"[-151.2583333, 60.55444439999999]",Alaska,USENA
+Newark,Newark,United States,"[-74.17, 40.73]",New Jersey,USEWR
+Fernandina Beach,Fernandina Beach,United States,"[-81.45, 30.67]",Florida,USFEB
+Fort Lauderdale,Fort Lauderdale,United States,"[-80.13, 26.12]",Florida,USFLL
+Freeport,Freeport,United States,"[-95.35966169999999, 28.9541368]",Texas,USFPO
+Fresh Water Bay,Fresh Water Bay,United States,"[-135.0160367, 57.87419879999999]",Alaska,USFRP
+Fort Worth,Fort Worth,United States,"[-97.3307658, 32.7554883]",Texas,USFWT
+Greensboro,Greensboro,United States,,North Carolina,USGBO
+Galveston,Galveston,United States,"[-94.7976958, 29.3013479]",Texas,USGLS
+Gulfport,Gulfport,United States,"[-89.0928155, 30.3674198]",Mississippi,USGPT
+Greer,Greer,United States,,South Carolina,USGSP
+Honolulu,Honolulu,United States,"[-157.85, 21.3]",Hawaii,USHNL
+Houston,Houston,United States,"[-95.35, 29.75]",Texas,USHOU
+Huntsville,Huntsville,United States,"[-86.5861037, 34.7303688]",Alabama,USHSV
+Wilmington,Wilmington,United States,"[-77.93, 34.22]",North Carolina,USILM
+Indianapolis,Indianapolis,United States,"[-86.15, 39.77]",Indiana,USIND
+Jacksonville,Jacksonville,United States,"[-122.9669865, 42.31345839999999]",Oregon,USJ3C
+Jacksonville,Jacksonville,United States,"[-81.65565099999999, 30.3321838]",Florida,USJAX
+Joliet,Joliet,United States,,Illinois,USJOT
+Kansas City,Kansas City,United States,"[-94.6274636, 39.114053]",Kansas,USKCK
+Las Vegas,Las Vegas,United States,"[-115.15, 36.07]",Nevada,USLAS
+Los Alamitos,Los Alamitos,United States,"[-118.0725641, 33.8030716]",California,USLAT
+Los Angeles,Los Angeles,United States,"[-118.2436849, 34.0522342]",California,USLAX
+Lake Charles,Lake Charles,United States,"[-93.2173758, 30.2265949]",Louisiana,USLCH
+Long Beach,Long Beach,United States,"[-118.18, 33.77]",California,USLGB
+Laredo,Laredo,United States,"[-99.48, 27.5]",Texas,USLRD
+Louisville,Louisville,United States,"[-85.77, 38.23]",Kentucky,USLUI
+Memphis,Memphis,United States,"[-90.0489801, 35.1495343]",Tennessee,USMEM
+Minneapolis,Minneapolis,United States,"[-93.2650108, 44.977753]",Minnesota,USMES
+Miami,Miami,United States,"[-80.1917902, 25.7616798]",Florida,USMIA
+Kansas City,Kansas City,United States,"[-94.57, 39.1]",Missouri,USMKC
+Milwaukee,Milwaukee,United States,"[-87.9064736, 43.0389025]",Wisconsin,USMKE
+Mobile,Mobile,United States,"[-88.0398912, 30.6953657]",Alabama,USMOB
+Morehead City,Morehead City,United States,"[-76.7260436, 34.7229391]",North Carolina,USMRH
+Minneapolis/St Paul Apt,Minneapolis/St Paul Apt,United States,"[-93.2, 44.88]",Minnesota,USMSP
+New Orleans,New Orleans,United States,"[-90.0715323, 29.95106579999999]",Louisiana,USMSY
+Newport News,Newport News,United States,"[-76.42, 36.97]",Virginia,USNNS
+Port Hueneme,Port Hueneme,United States,"[-119.18, 34.13]",California,USNTD
+North Charleston,North Charleston,United States,"[-79.9748103, 32.8546197]",South Carolina,USNTS
+New York,New York,United States,"[-74, 40.7]",New York,USNYC
+Oakland,Oakland,United States,"[-122.2711137, 37.8043637]",California,USOAK
+Oceanside,Oceanside,United States,"[-117.3794834, 33.1958696]",California,USOCN
+Washington,Washington,United States,"[-77.0521742, 35.54655169999999]",North Carolina,USOCW
+Olympia,Olympia,United States,"[-122.9006951, 47.0378741]",Washington,USOLM
+Omaha,Omaha,United States,"[-95.99798829999999, 41.2523634]",Nebraska,USOMA
+Norfolk,Norfolk,United States,"[-76.28587259999999, 36.8507689]",Virginia,USORF
+Orlando,Orlando,United States,"[-81.37, 28.53]",Florida,USORL
+Otay Mesa,Otay Mesa,United States,"[-117.02, 32.57]",California,USOYM
+Palm Beach,Palm Beach,United States,"[-80.0364297, 26.7056206]",Florida,USPAB
+Portage Creek,Portage Creek,United States,"[-157.7175, 58.9061111]",Alaska,USPCA
+Port Canaveral,Brevard County,United States,"[-80.36, 28.24]",Florida,USPCV
+Portland,Portland,United States,"[-122.6764816, 45.5230622]",Oregon,USPDX
+Port Elizabeth,Port Elizabeth,United States,"[-74.97, 39.3]",New Jersey,USPEB
+Port Everglades,Port Everglades,United States,"[-80.13, 26.1]",Florida,USPEF
+Panama City,Panama City,United States,"[-85.6602058, 30.1588129]",Florida,USPFN
+Pascagoula,Pascagoula,United States,"[-88.5561272, 30.3657552]",Mississippi,USPGL
+Hampton-Williamsburg-Newport News Apt,Hampton-Williamsburg-Newport News Apt,United States,"[-76.48, 37.12]",Virginia,USPHF
+Philadelphia,Philadelphia,United States,"[-75.1652215, 39.9525839]",Pennsylvania,USPHL
+Phoenix,Phoenix,United States,"[-112.0740373, 33.4483771]",Arizona,USPHX
+Peoria,Peoria,United States,"[-89.5889864, 40.6936488]",Illinois,USPIA
+Pittsburgh,Pittsburgh,United States,"[-79.9958864, 40.44062479999999]",Pennsylvania,USPIT
+Port Manatee,Port Manatee,United States,"[-82.55, 27.63]",Florida,USPME
+Pensacola,Pensacola,United States,"[-87.2169149, 30.42130899999999]",Florida,USPNS
+Port Arthur,Port Arthur,United States,"[-93.92, 29.88]",Texas,USPOA
+Pennsauken,Pennsauken,United States,"[-75.05, 39.95]",New Jersey,USPPS
+Pearson,Pearson,United States,"[-89.0165019, 45.3641312]",Wisconsin,USPS6
+Portsmouth,Portsmouth,United States,"[-76.2982742, 36.8354258]",Virginia,USPTM
+Providence,Providence,United States,"[-71.4128343, 41.8239891]",Rhode Island,USPVD
+Portland,Portland,United States,"[-70.2553259, 43.66147100000001]",Maine,USPWM
+Port Wentworth,Port Wentworth,United States,"[-81.163168, 32.149092]",Georgia,USPWN
+Plymouth,Plymouth,United States,"[-70.6672621, 41.9584457]",Massachusetts,USPYM
+Rotterdam,Rotterdam,United States,"[-73.97095829999999, 42.78702089999999]",New York,USRAJ
+Riviera Beach,Riviera Beach,United States,"[-80.0580969, 26.7753405]",Florida,USRBC
+Richmond,Richmond,United States,"[-77.45, 37.55]",Virginia,USRIC
+Reno,Reno,United States,,Nevada,USRNO
+Sacramento,Sacramento,United States,"[-121.48, 38.57]",California,USSAC
+San Diego,San Diego,United States,"[-117.15, 32.7]",California,USSAN
+San Antonio,San Antonio,United States,,Texas,USSAT
+Savannah,Savannah,United States,"[-81.09983419999999, 32.0835407]",Georgia,USSAV
+Stockton,Stockton,United States,"[-121.28, 37.95]",California,USSCK
+Seattle,Seattle,United States,"[-122.3320708, 47.6062095]",Washington,USSEA
+San Francisco,San Francisco,United States,"[-122.4194155, 37.7749295]",California,USSFO
+Salt Lake City,Salt Lake City,United States,"[-111.8910474, 40.7607793]",Utah,USSLC
+South Saint Paul,South Saint Paul,United States,"[-93.05, 44.88]",Minnesota,USSPT
+Brunswick,Brunswick,United States,"[-81.49148939999999, 31.1499528]",Georgia,USSSI
+Saint Louis,Saint Louis,United States,"[-90.19940419999999, 38.6270025]",Missouri,USSTL
+Saint Paul,Saint Paul,United States,"[-93.0899578, 44.9537029]",Minnesota,USSTP
+Sturgeon Bay,Sturgeon Bay,United States,"[-87.3770419, 44.8341639]",Wisconsin,USSUE
+Superior,Superior,United States,"[-92.10407959999999, 46.7207737]",Wisconsin,USSUW
+Newburgh,Newburgh,United States,"[-74.0104178, 41.5034271]",New York,USSWF
+Santa Teresa,Santa Teresa,United States,,New Mexico,USSXT
+Swartz Creek,Swartz Creek,United States,"[-83.82, 42.95]",Michigan,USSXZ
+Tacoma,Tacoma,United States,"[-122.4442906, 47.2528768]",Washington,USTIW
+Tamms,Tamms,United States,"[-89.2700811, 37.23505]",Illinois,USTMM
+Toledo,Toledo,United States,"[-83.55521200000001, 41.6639383]",Ohio,USTOL
+Tampa,Tampa,United States,"[-82.4571776, 27.950575]",Florida,USTPA
+Savannah,Savannah,United States,"[-88.2492037, 35.2248034]",Tennessee,USTSA
+Tulsa,Tulsa,United States,"[-95.99277500000001, 36.1539816]",Oklahoma,USTUL
+Waukegan,Waukegan,United States,"[-87.83, 42.35]",Illinois,USUGN
+Port Chester,Port Chester,United States,"[-73.66568339999999, 41.0017643]",New York,USUXZ
+Tonawanda,Tonawanda,United States,"[-78.880315, 43.0203347]",New York,USUZF
+Virginia Beach,Virginia Beach,United States,"[-75.97798499999999, 36.8529263]",Virginia,USVAB
+Howard Beach/Queens/New York,Howard Beach/Queens/New York,United States,"[-73.83, 40.65]",New York,USXGO
+Kirkland,Kirkland,United States,"[-122.2087353, 47.6814875]",Washington,USXHF
+Long Island City/Queens/New York,Long Island City/Queens/New York,United States,"[-73.93, 40.73]",New York,USXHO
+Oakboro,Oakboro,United States,"[-80.3289521, 35.2257007]",North Carolina,USYOB
+Colonia,Colonia,Uruguay,"[-55.765835, -32.522779]",,UYCYR
+Montevideo,Montevideo,Uruguay,"[-56.16453139999999, -34.9011127]",Montevideo Department,UYMVD
+Nueva Palmira,Nueva Palmira,Uruguay,"[-58.4002165, -33.877469]",Colonia,UYNVP
+Paysandu,Paysandu,Uruguay,"[-57.4627259, -32.2216595]",Paysandu,UYPDU
+Kingstown,Kingstown,Saint Vincent and the Grenadines,"[-61.22, 13.13]",Saint George,VCKTN
+Amuay,Amuay,Venezuela,"[-70.2423207, 11.776897]",Falcón,VEAMY
+Barcelona,Barcelona,Venezuela,"[-64.67768, 10.1445691]",Anzoategui,VEBLA
+El Guamache,El Guamache,Venezuela,"[-64.0665046, 10.8958956]",Nueva Esparta,VEEGU
+El Tablazo/Maracaibo L,El Tablazo/Maracaibo L,Venezuela,"[-71.64193399999999, 10.596956]",Zulia,VEETV
+Guaranao Bay,Guaranao Bay,Venezuela,"[11.6656673, -70.2147818]",,VEGUB
+Guanta,Guanta,Venezuela,"[-64.591805, 10.2343685]",Anzoategui,VEGUT
+La Guaira,La Guaira,Venezuela,"[-66.9213628, 10.587508]",Vargas,VELAG
+La Salina/Maracaibo L,La Salina/Maracaibo L,Venezuela,"[-71.6777177, 10.7156738]",Zulia,VELSV
+Maracaibo,Maracaibo,Venezuela,"[-71.7147951, 10.6544509]",Zulia,VEMAR
+Matanzas,Matanzas,Venezuela,"[-62.8, 8.316666999999999]",Bolívar,VEMTV
+Puerto Cabello,Puerto Cabello,Venezuela,"[-68.02986539999999, 10.4697685]",Carabobo,VEPBL
+Punta Cardon,Punta Cardón,Venezuela,"[-70.22, 11.65]",Falcón,VEPCN
+Puerto Sucre,Puerto Sucre,Venezuela,"[-68.3833329, 8.966667000000001]",Cojedes,VEPSU
+Puerto Ordaz,Puerto Ordaz,Venezuela,"[-62.76766329999999, 8.2750921]",Bolívar,VEPZO
+"Road Town, Tortola","Road Town, Tortola","Virgin Islands, British","[-64.61412229999999, 18.4229948]",Tortola,VGRAD
+Tortola,Tortola,"Virgin Islands, British","[-64.61412229999999, 18.4229948]",Tortola,VGTOV
+"Charlotte Amalie, Saint Thomas","Charlotte Amalie, Saint Thomas","Virgin Islands, U.S.","[-64.9307007, 18.3419004]",St. Thomas,VICHA
+"Christiansted, Saint Croix","Christiansted, Saint Croix","Virgin Islands, U.S.","[-64.7031977, 17.7466397]",St. Croix,VICTD
+Saint Thomas,Saint Thomas,"Virgin Islands, U.S.","[-64.93, 18.35]",VI,VISTT
+Saint Croix,Saint Croix,"Virgin Islands, U.S.","[-64.73, 17.75]",St. Croix,VISTX
+Cat Lai,Cát Lái,Viet Nam,"[106.78, 10.77]",Ho Chi Minh,VNCLI
+Cai Lan,Cai Lan,Viet Nam,"[107.05, 21.42]",Quảng Ninh,VNCLN
+Da Nang,Da Nang,Viet Nam,"[108.2021667, 16.0544068]",Da Nang,VNDAD
+Haiphong,Haiphong,Viet Nam,"[106.6880841, 20.8449115]",Haiphong,VNHPH
+Nha Trang,Nha Trang,Viet Nam,"[109.1967488, 12.2387911]",Khanh Hoa Province,VNNHA
+Phuoc Long,Phuóc Long,Viet Nam,"[106.95, 10.72]",Bac Lieu,VNPHG
+Ho Chi Minh City,Ho Chi Minh City,Viet Nam,"[106.67, 10.77]",Ho Chi Minh,VNSGN
+Su Tu Den,Su Tu Den,Viet Nam,"[108.2614775, 10.9804603]",Bình Thuận,VNSTD
+Cai Mep,Cai Mep,Viet Nam,"[107.1551514, 10.5850216]",Bà Rịa - Vũng Tàu,VNTOT
+Tan Thuan Dong,Tân Thuan Dông,Viet Nam,"[106.72, 10.73]",Ho Chi Minh,VNTTD
+Qui Nhon,Qui Nhon,Viet Nam,"[109.22, 13.77]",Bình Định,VNUIH
+"Ho Chi Minh, VICT","Ho Chi Minh, VICT",Viet Nam,"[106.6721498, 10.796011]",Hồ Chí Minh,VNVIC
+Vung Tau,Vung Tau,Viet Nam,"[107.07, 10.35]",Bà Rịa - Vung Tàu,VNVUT
+Espiritu Santo,Espiritu Santo,Vanuatu,"[166.9182097, -15.3003549]",,VUSON
+Port Vila,Port Vila,Vanuatu,"[168.3273245, -17.7332512]",Shefa Province,VUVLI
+Apia,Apia,Samoa,"[-171.7513551, -13.8506958]",Upolu,WSAPW
+Aden,Aden,Yemen,"[45.0186548, 12.7854969]",Aden,YEADE
+Hodeidah,Hodeidah,Yemen,"[42.9, 14.83]",Al Hudaydah,YEHOD
+Little Aden,Little Aden,Yemen,"[44.87, 12.73]",Adan,YELAD
+Mukalla,Mukalla,Yemen,"[49.127197, 14.5404328]",Hadramaut,YEMKX
+Longoni,Longoni,Mayotte,"[45.17, -12.75]",Koungou,YTLON
+Bloemfontein,Bloemfontein,South Africa,"[26.1595761, -29.085214]",Free State,ZABFN
+Cape Town,Cape Town,South Africa,"[18.42, -33.92]",Western Cape,ZACPT
+Durban,Durban,South Africa,"[31.0218404, -29.85868039999999]",KwaZulu-Natal,ZADUR
+East London,East London,South Africa,"[27.8545867, -33.0291582]",Eastern Cape,ZAELS
+Johannesburg,Johannesburg,South Africa,"[28.08, -26.2]",Gauteng,ZAJNB
+Port Elizabeth,Port Elizabeth,South Africa,"[25.5207358, -33.7139247]",Eastern Cape,ZAPLZ
+Pretoria,Pretoria,South Africa,"[28.22, -25.7]",Gauteng,ZAPRY
+Richards Bay,Richards Bay,South Africa,"[32.0382856, -28.7807276]",KwaZulu-Natal,ZARCB
+Coega,Coega,South Africa,"[25.67, -33.77]",Eastern Cape,ZAZBA
+Lusaka,Lusaka,Zambia,"[28.3228165, -15.3875259]",Lusaka,ZMLUN
+Bulawayo,Bulawayo,Zimbabwe,"[28.626479, -20.1325066]",Bulawayo,ZWBUQ
+Harare,Harare,Zimbabwe,"[31.03351, -17.8251657]",Harare,ZWHRE
+Mutare,Mutare,Zimbabwe,"[32.650351, -18.9757714]",Manicaland,ZWUTA
